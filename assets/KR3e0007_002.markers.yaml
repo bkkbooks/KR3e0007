@@ -1,0 +1,1231 @@
+canonical_identifier: bkk:krp/KR3e0007/bkk/v1/markers/2
+seq: 2
+markers:
+  front:
+  - {type: variant, offset: 0, length: 3, content: 痓濕暍, SBCK: 新編金匱要畧方論卷之中尚書司封郎中充秘閣校理臣林億等詮次􅀳王叔和集漢張仲景述五臟風寒積聚}
+  - {type: page-break, offset: 0, content: '', id: KR3e0007_SBCK_002-1a}
+  - {type: variant, offset: 0, length: 3, content: 痓濕暍, krp: 新編金匱要畧方論卷之中尚書司封郎中充秘閣校理臣林億等詮次晉王叔和集漢張仲景述五臟風寒積聚}
+  body:
+  - {type: punctuation, offset: 0, content: 《, id: KR3e0007_CHANT_002-bkkpn1}
+  - {type: variant, offset: 4, length: 1, content: 脈, SBCK: 脉}
+  - {type: variant, offset: 4, length: 1, content: 脈, krp: 脉}
+  - {type: variant, offset: 6, length: 0, content: '', SBCK: 幷}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 幷}
+  - {type: variant, offset: 8, length: 0, content: '', SBCK: 十一論}
+  - {type: variant, offset: 8, length: 0, content: '', krp: 十一論}
+  - {type: punctuation, offset: 9, content: 》, id: KR3e0007_CHANT_002-bkkpn2}
+  - {type: xml-element, offset: 9, content: '', id: KR3e0007_CHANT_002-bkkxmlele1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3e0007_CHANT_002-1a.1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3e0007_CHANT_002-1a.2}
+  - {type: variant, offset: 9, length: 2, content: 論一, SBCK: ''}
+  - {type: variant, offset: 9, length: 2, content: 論一, krp: ''}
+  - {type: punctuation, offset: 12, content: ，, id: KR3e0007_CHANT_002-bkkpn3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR3e0007_CHANT_002-1a.3}
+  - {type: variant, offset: 12, length: 1, content: 脈, SBCK: 脉}
+  - {type: variant, offset: 12, length: 1, content: 脈, krp: 脉}
+  - {type: variant, offset: 15, length: 1, content: 二, SBCK: 七}
+  - {type: variant, offset: 15, length: 1, content: 二, krp: 七}
+  - {type: punctuation, offset: 17, content: ，, id: KR3e0007_CHANT_002-bkkpn4}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3e0007_CHANT_002-1a.4}
+  - {type: variant, offset: 18, length: 2, content: 十一, SBCK: 二}
+  - {type: variant, offset: 18, length: 2, content: 十一, krp: 二}
+  - {type: punctuation, offset: 21, content: 。, id: KR3e0007_CHANT_002-bkkpn5}
+  - {type: xml-element, offset: 21, content: '', id: KR3e0007_CHANT_002-bkkxmlele2}
+  - {type: xml-element, offset: 21, content: '', id: KR3e0007_CHANT_002-bkkxmlele3}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3e0007_CHANT_002-1a.5}
+  - {type: variant, offset: 21, length: 5, content: 太陽病發熱, SBCK: 肺中風者口燥而喘身運而重冐而腫脹肺中寒􅄍濁涕肺死臟浮之虚按之弱如葱葉下}
+  - {type: variant, offset: 21, length: 5, content: 太陽病發熱, krp: 肺中風者口燥而喘身運而重冐而腫脹肺中寒吐濁涕肺死臟浮之虚按之弱如葱葉下}
+  - {type: punctuation, offset: 24, content: ，, id: KR3e0007_CHANT_002-bkkpn6}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3e0007_CHANT_002-1a.6}
+  - {type: variant, offset: 27, length: 3, content: 汗反惡, SBCK: 根者死肝中風者頭目瞤两脇痛行常傴令人嗜甘肝中}
+  - {type: variant, offset: 27, length: 3, content: 汗反惡, krp: 根者死肝中風者頭目瞤两脇痛行常傴令人嗜甘肝中}
+  - {type: punctuation, offset: 28, content: ，, id: KR3e0007_CHANT_002-bkkpn7}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3e0007_CHANT_002-1a.7}
+  - {type: punctuation, offset: 32, content: ，, id: KR3e0007_CHANT_002-bkkpn8}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3e0007_CHANT_002-1a.8}
+  - {type: variant, offset: 32, length: 4, content: 名曰剛痓, SBCK: 两臂不舉舌本燥喜}
+  - {type: variant, offset: 32, length: 4, content: 名曰剛痓, krp: 两臂不舉舌本燥喜}
+  - {type: punctuation, offset: 36, content: 。, id: KR3e0007_CHANT_002-bkkpn9}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3e0007_CHANT_002-1a.9}
+  - {type: variant, offset: 37, length: 4, content: 陽病發熱, SBCK: 息胸中痛不得轉側食則􅄍而}
+  - {type: page-break, offset: 37, content: '', id: KR3e0007_SBCK_002-1b}
+  - {type: variant, offset: 37, length: 4, content: 陽病發熱, krp: 息胸中痛不得轉側食則吐而}
+  - {type: punctuation, offset: 39, content: ，, id: KR3e0007_CHANT_002-bkkpn10}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR3e0007_CHANT_002-1a.10}
+  - {type: punctuation, offset: 43, content: ，, id: KR3e0007_CHANT_002-bkkpn11}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3e0007_CHANT_002-1a.11}
+  - {type: variant, offset: 43, length: 1, content: 而, SBCK: 也脉經千金云時盗汗欬食巳􅄍其汁肝死臟浮之弱按之如索}
+  - {type: variant, offset: 43, length: 1, content: 而, krp: 也脉經千金云時盗汗欬食巳吐其汁肝死臟浮之弱按之如索}
+  - {type: variant, offset: 45, length: 115, content: 惡寒名曰柔痓太陽病發熱脈沉而細者名曰痓為難治太陽病發汗太多因致痓夫風病下之則痓復發汗必拘急瘡家雖身疼痛不可發汗汗出則痓病者身熱足寒頸項強急惡寒時頭熱面赤目赤獨頭動搖卒口噤背反張者痓病也若發其汗者寒濕相得其表益虛即惡寒甚發其汗已其脈, SBCK: 来或曲}
+  - {type: variant, offset: 45, length: 115, content: 惡寒名曰柔痓太陽病發熱脈沉而細者名曰痓為難治太陽病發汗太多因致痓夫風病下之則痓復發汗必拘急瘡家雖身疼痛不可發汗汗出則痓病者身熱足寒頸項強急惡寒時頭熱面赤目赤獨頭動搖卒口噤背反張者痓病也若發其汗者寒濕相得其表益虛即惡寒甚發其汗已其脈, krp: 来或曲}
+  - {type: punctuation, offset: 47, content: ，, id: KR3e0007_CHANT_002-bkkpn12}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3e0007_CHANT_002-1a.12}
+  - {type: punctuation, offset: 51, content: 。, id: KR3e0007_CHANT_002-bkkpn13}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3e0007_CHANT_002-1a.13}
+  - {type: punctuation, offset: 54, content: ，, id: KR3e0007_CHANT_002-bkkpn14}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR3e0007_CHANT_002-1a.14}
+  - {type: punctuation, offset: 56, content: ，, id: KR3e0007_CHANT_002-bkkpn15}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3e0007_CHANT_002-1a.15}
+  - {type: punctuation, offset: 61, content: ，, id: KR3e0007_CHANT_002-bkkpn16}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3e0007_CHANT_002-1a.16}
+  - {type: punctuation, offset: 64, content: ，, id: KR3e0007_CHANT_002-bkkpn17}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3e0007_CHANT_002-1a.17}
+  - {type: punctuation, offset: 67, content: 。, id: KR3e0007_CHANT_002-bkkpn18}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR3e0007_CHANT_002-1a.18}
+  - {type: punctuation, offset: 70, content: ，, id: KR3e0007_CHANT_002-bkkpn19}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR3e0007_CHANT_002-1a.19}
+  - {type: punctuation, offset: 74, content: ，, id: KR3e0007_CHANT_002-bkkpn20}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR3e0007_CHANT_002-1a.20}
+  - {type: punctuation, offset: 77, content: 。, id: KR3e0007_CHANT_002-bkkpn21}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3e0007_CHANT_002-1a.21}
+  - {type: punctuation, offset: 84, content: ，, id: KR3e0007_CHANT_002-bkkpn22}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3e0007_CHANT_002-1a.22}
+  - {type: punctuation, offset: 87, content: ，, id: KR3e0007_CHANT_002-bkkpn23}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3e0007_CHANT_002-1a.23}
+  - {type: punctuation, offset: 90, content: 。, id: KR3e0007_CHANT_002-bkkpn24}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3e0007_CHANT_002-1a.24}
+  - {type: punctuation, offset: 96, content: ，, id: KR3e0007_CHANT_002-bkkpn25}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3e0007_CHANT_002-1a.25}
+  - {type: punctuation, offset: 100, content: ，, id: KR3e0007_CHANT_002-bkkpn26}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3e0007_CHANT_002-1a.26}
+  - {type: punctuation, offset: 104, content: 。, id: KR3e0007_CHANT_002-bkkpn27}
+  - {type: xml-element, offset: 104, content: '', id: KR3e0007_CHANT_002-bkkxmlele4}
+  - {type: xml-element, offset: 104, content: '', id: KR3e0007_CHANT_002-bkkxmlele5}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3e0007_CHANT_002-2a.1}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3e0007_CHANT_002-2a.2}
+  - {type: punctuation, offset: 110, content: ，, id: KR3e0007_CHANT_002-bkkpn28}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR3e0007_CHANT_002-2a.3}
+  - {type: punctuation, offset: 114, content: ，, id: KR3e0007_CHANT_002-bkkpn29}
+  - {type: 'tls:seg', offset: 114, content: '', id: KR3e0007_CHANT_002-2a.4}
+  - {type: punctuation, offset: 116, content: ，, id: KR3e0007_CHANT_002-bkkpn30}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3e0007_CHANT_002-2a.5}
+  - {type: punctuation, offset: 119, content: ，, id: KR3e0007_CHANT_002-bkkpn31}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3e0007_CHANT_002-2a.6}
+  - {type: punctuation, offset: 123, content: ，, id: KR3e0007_CHANT_002-bkkpn32}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3e0007_CHANT_002-2a.7}
+  - {type: punctuation, offset: 127, content: ，, id: KR3e0007_CHANT_002-bkkpn33}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3e0007_CHANT_002-2a.8}
+  - {type: punctuation, offset: 130, content: ，, id: KR3e0007_CHANT_002-bkkpn34}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR3e0007_CHANT_002-2a.9}
+  - {type: punctuation, offset: 134, content: ，, id: KR3e0007_CHANT_002-bkkpn35}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3e0007_CHANT_002-2a.10}
+  - {type: punctuation, offset: 137, content: 。, id: KR3e0007_CHANT_002-bkkpn36}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR3e0007_CHANT_002-2a.11}
+  - {type: punctuation, offset: 142, content: ，, id: KR3e0007_CHANT_002-bkkpn37}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3e0007_CHANT_002-2a.12}
+  - {type: punctuation, offset: 146, content: ，, id: KR3e0007_CHANT_002-bkkpn38}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3e0007_CHANT_002-2a.13}
+  - {type: punctuation, offset: 150, content: ，, id: KR3e0007_CHANT_002-bkkpn39}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3e0007_CHANT_002-2a.14}
+  - {type: punctuation, offset: 154, content: ；, id: KR3e0007_CHANT_002-bkkpn40}
+  - {type: 'tls:seg', offset: 154, content: '', id: KR3e0007_CHANT_002-2a.15}
+  - {type: punctuation, offset: 158, content: ，, id: KR3e0007_CHANT_002-bkkpn41}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3e0007_CHANT_002-2a.16}
+  - {type: punctuation, offset: 162, content: 。, id: KR3e0007_CHANT_002-bkkpn42}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR3e0007_CHANT_002-2a.17}
+  - {type: variant, offset: 162, length: 4, content: 暴腹脹大, SBCK: 行}
+  - {type: variant, offset: 162, length: 4, content: 暴腹脹大, krp: 行}
+  - {type: punctuation, offset: 167, content: ，, id: KR3e0007_CHANT_002-bkkpn43}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR3e0007_CHANT_002-2a.18}
+  - {type: variant, offset: 167, length: 20, content: 為欲解脈如故反伏弦者痓夫痓脈按之緊如弦直, SBCK: 死肝着其人當􅁒蹈其胸}
+  - {type: variant, offset: 167, length: 20, content: 為欲解脈如故反伏弦者痓夫痓脈按之緊如弦直, krp: 死肝着其人當𣣔蹈其胸}
+  - {type: punctuation, offset: 170, content: ，, id: KR3e0007_CHANT_002-bkkpn44}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR3e0007_CHANT_002-2a.19}
+  - {type: punctuation, offset: 173, content: ，, id: KR3e0007_CHANT_002-bkkpn45}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR3e0007_CHANT_002-2a.20}
+  - {type: punctuation, offset: 178, content: 。, id: KR3e0007_CHANT_002-bkkpn46}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR3e0007_CHANT_002-2a.21}
+  - {type: punctuation, offset: 181, content: ，, id: KR3e0007_CHANT_002-bkkpn47}
+  - {type: 'tls:seg', offset: 181, content: '', id: KR3e0007_CHANT_002-2a.22}
+  - {type: punctuation, offset: 186, content: ，, id: KR3e0007_CHANT_002-bkkpn48}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR3e0007_CHANT_002-2a.23}
+  - {type: variant, offset: 188, length: 44, content: 下行痓病有灸瘡難治脈經云痓家其脈伏堅直上下太陽病其證備身體強几几然脈反沉遲此為痓括樓桂枝, SBCK: 先未苦時但􅁒飲􅀬旋復花}
+  - {type: variant, offset: 188, length: 44, content: 下行痓病有灸瘡難治脈經云痓家其脈伏堅直上下太陽病其證備身體強几几然脈反沉遲此為痓括樓桂枝, krp: 先未苦時但𣣔飲熱旋復花}
+  - {type: punctuation, offset: 190, content: 。, id: KR3e0007_CHANT_002-bkkpn49}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR3e0007_CHANT_002-2a.24}
+  - {type: punctuation, offset: 195, content: ，, id: KR3e0007_CHANT_002-bkkpn50}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3e0007_CHANT_002-2a.25}
+  - {type: punctuation, offset: 197, content: 。, id: KR3e0007_CHANT_002-bkkpn51}
+  - {type: xml-element, offset: 197, content: '', id: KR3e0007_CHANT_002-bkkxmlele6}
+  - {type: xml-element, offset: 197, content: '', id: KR3e0007_CHANT_002-bkkxmlele7}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR3e0007_CHANT_002-3a.1}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR3e0007_CHANT_002-3a.2}
+  - {type: punctuation, offset: 200, content: ：, id: KR3e0007_CHANT_002-bkkpn52}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3e0007_CHANT_002-3a.3}
+  - {type: punctuation, offset: 204, content: ，, id: KR3e0007_CHANT_002-bkkpn53}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR3e0007_CHANT_002-3a.4}
+  - {type: punctuation, offset: 209, content: 。, id: KR3e0007_CHANT_002-bkkpn54}
+  - {type: xml-element, offset: 209, content: '', id: KR3e0007_CHANT_002-bkkxmlele8}
+  - {type: xml-element, offset: 209, content: '', id: KR3e0007_CHANT_002-bkkxmlele9}
+  - {type: 'tls:seg', offset: 209, content: '', id: KR3e0007_CHANT_002-3a.5}
+  - {type: punctuation, offset: 212, content: ，, id: KR3e0007_CHANT_002-bkkpn55}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR3e0007_CHANT_002-3a.6}
+  - {type: punctuation, offset: 215, content: ，, id: KR3e0007_CHANT_002-bkkpn56}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR3e0007_CHANT_002-3a.7}
+  - {type: punctuation, offset: 218, content: ，, id: KR3e0007_CHANT_002-bkkpn57}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR3e0007_CHANT_002-3a.8}
+  - {type: punctuation, offset: 221, content: ，, id: KR3e0007_CHANT_002-bkkpn58}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3e0007_CHANT_002-3a.9}
+  - {type: punctuation, offset: 225, content: ，, id: KR3e0007_CHANT_002-bkkpn59}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3e0007_CHANT_002-3a.10}
+  - {type: punctuation, offset: 228, content: 。, id: KR3e0007_CHANT_002-bkkpn60}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR3e0007_CHANT_002-3a.11}
+  - {type: punctuation, offset: 235, content: 。, id: KR3e0007_CHANT_002-bkkpn61}
+  - {type: xml-element, offset: 235, content: '', id: KR3e0007_CHANT_002-bkkxmlele10}
+  - {type: xml-element, offset: 235, content: '', id: KR3e0007_CHANT_002-bkkxmlele11}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR3e0007_CHANT_002-4a.1}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR3e0007_CHANT_002-4a.2}
+  - {type: variant, offset: 235, length: 4, content: 括蔞桂枝, SBCK: 臣億等校諸夲旋復花}
+  - {type: variant, offset: 235, length: 4, content: 括蔞桂枝, krp: 臣億等校諸夲旋復花}
+  - {type: punctuation, offset: 241, content: ：, id: KR3e0007_CHANT_002-bkkpn62}
+  - {type: xml-element, offset: 241, content: '', id: KR3e0007_CHANT_002-bkkxmlele12}
+  - {type: xml-element, offset: 241, content: '', id: KR3e0007_CHANT_002-bkkxmlele13}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR3e0007_CHANT_002-4a.3}
+  - {type: variant, offset: 241, length: 3, content: 括蔞根, SBCK: 皆同心中風者翕翕發􅀬不能起心中饑食即嘔􅄍心中寒者其人苦病心如噉蒜狀劇者心痛徹背背痛徹心譬如蠱注其脉浮者自􅄍乃愈心傷者其人劳倦即頭面赤而下重心中痛而自煩發􅀬當臍跳其脉弦此爲心臟傷所致也心死臟浮之實如麻豆按之益躁疾者死邪哭使魂魄不安者血氣少也血氣少者属於心心氣虚者其人則畏合目􅁒眠夣逺行而精神離散魂魄妄行隂氣衰者爲癲陽氣衰者爲狂脾中風者翕翕發􅀬形如醉人腹中煩重皮目瞤瞤而短氣脾死臟浮之大堅按之如覆盃㓗㓗狀如揺者死臣億等計五藏各有中風中寒今脾只載中風腎中風中寒俱不載者以古文簡亂極多去右旣遠無文可以􅀘綴也趺陽脉浮而濇浮則􅅐氣强濇則小便數浮濇相摶大便則堅其脾爲約麻子仁丸主之麻子仁丸方麻子仁}
+  - {type: page-break, offset: 241, content: '', id: KR3e0007_SBCK_002-2a}
+  - {type: variant, offset: 241, length: 3, content: 括蔞根, krp: 皆同心中風者翕翕發熱不能起心中饑食即嘔吐心中寒者其人苦病心如噉蒜狀劇者心痛徹背背痛徹心譬如蠱注其脉浮者自吐乃愈心傷者其人劳倦即頭面赤而下重心中痛而自煩發熱當臍跳其脉弦此爲心臟傷所致也心死臟浮之實如麻豆按之益躁疾者死邪哭使魂魄不安者血氣少也血氣少者属於心心氣虚者其人則畏合目𣣔眠夣逺行而精神離散魂魄妄行隂氣衰者爲癲陽氣衰者爲狂脾中風者翕翕發熱形如醉人腹中煩重皮目瞤瞤而短氣脾死臟浮之大堅按之如覆盃㓗㓗狀如揺者死臣億等計五藏各有中風中寒今脾只載中風腎中風中寒俱不載者以古文簡亂極多去右旣遠無文可以𥙷綴也趺陽脉浮而濇浮則胸氣强濇則小便數浮濇相摶大便則堅其脾爲約麻子仁丸主之麻子仁丸方麻子仁}
+  - {type: variant, offset: 245, length: 5, content: 兩桂枝三兩, SBCK: 升}
+  - {type: variant, offset: 245, length: 5, content: 兩桂枝三兩, krp: 升}
+  - {type: punctuation, offset: 246, content: ，, id: KR3e0007_CHANT_002-bkkpn63}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3e0007_CHANT_002-4a.4}
+  - {type: punctuation, offset: 250, content: ，, id: KR3e0007_CHANT_002-bkkpn64}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR3e0007_CHANT_002-4a.5}
+  - {type: variant, offset: 252, length: 10, content: 三兩甘草二兩生姜三兩, SBCK: 半斤枳實一斤}
+  - {type: variant, offset: 252, length: 10, content: 三兩甘草二兩生姜三兩, krp: 半斤枳實一斤}
+  - {type: punctuation, offset: 254, content: ，, id: KR3e0007_CHANT_002-bkkpn65}
+  - {type: 'tls:seg', offset: 254, content: '', id: KR3e0007_CHANT_002-4a.6}
+  - {type: punctuation, offset: 258, content: ，, id: KR3e0007_CHANT_002-bkkpn66}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR3e0007_CHANT_002-4a.7}
+  - {type: punctuation, offset: 262, content: ，, id: KR3e0007_CHANT_002-bkkpn67}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR3e0007_CHANT_002-4a.8}
+  - {type: variant, offset: 263, length: 4, content: 棗十二枚, SBCK: 黃一斤厚朴一尺杏仁一升}
+  - {type: variant, offset: 263, length: 4, content: 棗十二枚, krp: 黃一斤厚朴一尺杏仁一升}
+  - {type: punctuation, offset: 267, content: 。, id: KR3e0007_CHANT_002-bkkpn68}
+  - {type: xml-element, offset: 267, content: '', id: KR3e0007_CHANT_002-bkkxmlele14}
+  - {type: xml-element, offset: 267, content: '', id: KR3e0007_CHANT_002-bkkxmlele15}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3e0007_CHANT_002-5a.1}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3e0007_CHANT_002-5a.2}
+  - {type: page-break, offset: 267, content: '', id: KR3e0007_SBCK_002-2b}
+  - {type: punctuation, offset: 270, content: ，, id: KR3e0007_CHANT_002-bkkpn69}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3e0007_CHANT_002-5a.3}
+  - {type: variant, offset: 270, length: 0, content: '', SBCK: 末之煉􅁡和丸梧子大飲服十丸日三以知爲度腎着之病其人身體重腰中冷如坐水中形如水狀反不渴小便自利飲食如故病属下焦身劳汗出衣一作表裏冷濕乆乆得之腰以下冷痛腹重如帶五千錢乾姜苓术湯主之甘草乾姜茯苓白术湯方甘草白术各二两乾姜茯苓各四两右四味}
+  - {type: variant, offset: 270, length: 0, content: '', krp: 末之煉蜜和丸梧子大飲服十丸日三以知爲度腎着之病其人身體重腰中冷如坐水中形如水狀反不渴小便自利飲食如故病属下焦身劳汗出衣一作表裏冷濕乆乆得之腰以下冷痛腹重如帶五千錢乾姜苓术湯主之甘草乾姜茯苓白术湯方甘草白术各二两乾姜茯苓各四两右四味}
+  - {type: variant, offset: 272, length: 1, content: 九, SBCK: 五}
+  - {type: variant, offset: 272, length: 1, content: 九, krp: 五}
+  - {type: punctuation, offset: 274, content: ，, id: KR3e0007_CHANT_002-bkkpn70}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR3e0007_CHANT_002-5a.4}
+  - {type: punctuation, offset: 278, content: ，, id: KR3e0007_CHANT_002-bkkpn71}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3e0007_CHANT_002-5a.5}
+  - {type: variant, offset: 279, length: 1, content: 溫, SBCK: 温}
+  - {type: variant, offset: 279, length: 1, content: 溫, krp: 温}
+  - {type: punctuation, offset: 282, content: ，, id: KR3e0007_CHANT_002-bkkpn72}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR3e0007_CHANT_002-5a.6}
+  - {type: variant, offset: 282, length: 0, content: '', SBCK: 腰中即温腎死臟浮之堅按之亂如轉丸益下入尺中者死問曰三噍竭部上噍竭善噫何謂也師曰上焦受中焦氣未和不能消榖故能噫耳下焦竭即遺溺失便其氣不和不能自禁制不湏治久則愈師曰􅀬在上焦者因欬為肺痿􅀬在中焦者則爲堅􅀬在下焦者則尿血亦令淋秘不通大腸有寒者多鶩溏有􅀬者便腸垢小腸有寒者其人下重便血有􅀬者必痔問曰病者積有聚有㯏氣何謂也師曰積者藏病也終不移聚者府病也發作有時展轉痛移為可治㯏氣者脇下痛按之則愈復發為㯏氣諸積大法脉来細而附骨者乃積也寸口積在胸中㣲出寸口積在喉中関上積在臍傍上関上積在心下㣲下関積在小腹尺中積在氣衝脉出左積在左脉出右積在右脉两岀積在中央各以其部處之痰飲欬嗽病脉證幷治第十二論一首脉證二十一條方十九首問曰夫飲有四何謂也師曰有痰飲有懸飲有溢飲有支飲問曰四飲何以爲異師曰其人素盛今瘦水走腸間瀝瀝有聲謂之痰飮飲後水流在脇下欬唾引痛謂之懸飲飲水流行歸於四肢當汗岀而不汗出身體疼重謂之溢飲欬逆􅀝息短氣不得卧其形如腫謂之支飲水在心心下堅築短氣惡水不􅁒飲水在肺􅄍涎沫􅁒飲水水在脾少氣身重水在肝脇下支滿嚏而痛水在腎心下悸夫心下有留飲其人背寒冷如水大留飲者脇下痛引缺盃欬嗽則輒已一作轉甚胸中有留飲其人短氣而渴四肢歷節痛脉沉者有留飲膈上病痰滿喘欬􅄍發則寒􅀬背痛腰疼目泣自出其人振振身瞤劇必有伏飲夫病人飲水多必􅁀喘滿凡食少飲多水停心下甚者則悸㣲者短氣脉䨇弦者寒也皆大下後虚脉偏弦者飮也肺飲不弦但苦喘短氣支飲亦喘而不能卧加短氣其脉平也病痰飲者當以温藥和之心下有痰飲胸脇支滿目眩用後方茯桂甘白湯方茯苓四两桂枝白术各三两甘草二两右四味以水六升煮}
+  - {type: page-break, offset: 282, content: '', id: KR3e0007_SBCK_002-3a}
+  - {type: page-break, offset: 282, content: '', id: KR3e0007_SBCK_002-3b}
+  - {type: page-break, offset: 282, content: '', id: KR3e0007_SBCK_002-4a}
+  - {type: page-break, offset: 282, content: '', id: KR3e0007_SBCK_002-4b}
+  - {type: variant, offset: 282, length: 0, content: '', krp: 腰中即温腎死臟浮之堅按之亂如轉丸益下入尺中者死問曰三噍竭部上噍竭善噫何謂也師曰上焦受中焦氣未和不能消榖故能噫耳下焦竭即遺溺失便其氣不和不能自禁制不湏治久則愈師曰熱在上焦者因欬為肺痿熱在中焦者則爲堅熱在下焦者則尿血亦令淋秘不通大腸有寒者多鶩溏有熱者便腸垢小腸有寒者其人下重便血有熱者必痔問曰病者積有聚有㯏氣何謂也師曰積者藏病也終不移聚者府病也發作有時展轉痛移為可治㯏氣者脇下痛按之則愈復發為㯏氣諸積大法脉来細而附骨者乃積也寸口積在胸中㣲出寸口積在喉中関上積在臍傍上関上積在心下㣲下関積在小腹尺中積在氣衝脉出左積在左脉出右積在右脉两岀積在中央各以其部處之痰飲欬嗽病脉證幷治第十二論一首脉證二十一條方十九首問曰夫飲有四何謂也師曰有痰飲有懸飲有溢飲有支飲問曰四飲何以爲異師曰其人素盛今瘦水走腸間瀝瀝有聲謂之痰飮飲後水流在脇下欬唾引痛謂之懸飲飲水流行歸於四肢當汗岀而不汗出身體疼重謂之溢飲欬逆倚息短氣不得卧其形如腫謂之支飲水在心心下堅築短氣惡水不𣣔飲水在肺吐涎沫𣣔飲水水在脾少氣身重水在肝脇下支滿嚏而痛水在腎心下悸夫心下有留飲其人背寒冷如水大留飲者脇下痛引缺盃欬嗽則輒已一作轉甚胸中有留飲其人短氣而渴四肢歷節痛脉沉者有留飲膈上病痰滿喘欬吐發則寒熱背痛腰疼目泣自出其人振振身瞤劇必有伏飲夫病人飲水多必暴喘滿凡食少飲多水停心下甚者則悸㣲者短氣脉䨇弦者寒也皆大下後虚脉偏弦者飮也肺飲不弦但苦喘短氣支飲亦喘而不能卧加短氣其脉平也病痰飲者當以温藥和之心下有痰飲胸脇支滿目眩用後方茯桂甘白湯方茯苓四两桂枝白术各三两甘草二两右四味以水六升煮}
+  - {type: variant, offset: 283, length: 18, content: 微汗汗不出食頃啜熱粥發之太陽病無汗而, SBCK: 三升分温三服}
+  - {type: variant, offset: 283, length: 18, content: 微汗汗不出食頃啜熱粥發之太陽病無汗而, krp: 三升分温三服}
+  - {type: punctuation, offset: 285, content: 。, id: KR3e0007_CHANT_002-bkkpn73}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR3e0007_CHANT_002-5a.7}
+  - {type: punctuation, offset: 288, content: ，, id: KR3e0007_CHANT_002-bkkpn74}
+  - {type: 'tls:seg', offset: 288, content: '', id: KR3e0007_CHANT_002-5a.8}
+  - {type: punctuation, offset: 295, content: 。, id: KR3e0007_CHANT_002-bkkpn75}
+  - {type: xml-element, offset: 295, content: '', id: KR3e0007_CHANT_002-bkkxmlele16}
+  - {type: xml-element, offset: 295, content: '', id: KR3e0007_CHANT_002-bkkxmlele17}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR3e0007_CHANT_002-5a.9}
+  - {type: punctuation, offset: 298, content: ，, id: KR3e0007_CHANT_002-bkkpn76}
+  - {type: 'tls:seg', offset: 298, content: '', id: KR3e0007_CHANT_002-5a.10}
+  - {type: variant, offset: 303, length: 2, content: 反少, SBCK: 則利夫短}
+  - {type: page-break, offset: 303, content: '', id: KR3e0007_SBCK_002-5a}
+  - {type: variant, offset: 303, length: 2, content: 反少, krp: 則利夫短}
+  - {type: punctuation, offset: 305, content: ，, id: KR3e0007_CHANT_002-bkkpn77}
+  - {type: 'tls:seg', offset: 305, content: '', id: KR3e0007_CHANT_002-5a.11}
+  - {type: variant, offset: 306, length: 14, content: 上衝胸口噤不得語欲作剛痓葛根, SBCK: 有㣲飲當從小便去之苓桂术甘}
+  - {type: variant, offset: 306, length: 14, content: 上衝胸口噤不得語欲作剛痓葛根, krp: 有㣲飲當從小便去之苓桂术甘}
+  - {type: punctuation, offset: 309, content: ，, id: KR3e0007_CHANT_002-bkkpn78}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3e0007_CHANT_002-5a.12}
+  - {type: punctuation, offset: 314, content: ，, id: KR3e0007_CHANT_002-bkkpn79}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3e0007_CHANT_002-5a.13}
+  - {type: punctuation, offset: 318, content: ，, id: KR3e0007_CHANT_002-bkkpn80}
+  - {type: 'tls:seg', offset: 318, content: '', id: KR3e0007_CHANT_002-5a.14}
+  - {type: punctuation, offset: 323, content: 。, id: KR3e0007_CHANT_002-bkkpn81}
+  - {type: xml-element, offset: 323, content: '', id: KR3e0007_CHANT_002-bkkxmlele18}
+  - {type: xml-element, offset: 323, content: '', id: KR3e0007_CHANT_002-bkkxmlele19}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3e0007_CHANT_002-6a.1}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3e0007_CHANT_002-6a.2}
+  - {type: variant, offset: 323, length: 2, content: 葛根, SBCK: 方見上腎氣丸亦主之方見胸氣中病者脉伏其人􅁒自利利反快雖利心下續堅滿此爲留飲􅁒去故也甘遂半夏湯主之甘遂半夏}
+  - {type: variant, offset: 323, length: 2, content: 葛根, krp: 方見上腎氣丸亦主之方見胸氣中病者脉伏其人𣣔自利利反快雖利心下續堅滿此爲留飲𣣔去故也甘遂半夏湯主之甘遂半夏}
+  - {type: punctuation, offset: 327, content: ：, id: KR3e0007_CHANT_002-bkkpn82}
+  - {type: xml-element, offset: 327, content: '', id: KR3e0007_CHANT_002-bkkxmlele20}
+  - {type: xml-element, offset: 327, content: '', id: KR3e0007_CHANT_002-bkkxmlele21}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR3e0007_CHANT_002-6a.3}
+  - {type: variant, offset: 327, length: 6, content: 葛根四兩麻黃, SBCK: 甘遂大者}
+  - {type: variant, offset: 327, length: 2, content: 葛根, krp: 甘遂大者三枚半夏十二枚以水一升煮取半升去滓芍藥五枚甘草如指大一枚炙一本作無右}
+  - {type: variant, offset: 330, length: 1, content: 兩, krp: 味以水二升煮取半升去滓以蜜半升和藥汁煎取八合頓服之脉浮而細滑傷飲脉弦數有寒飲冬夏難治脉沉而弦者懸飲内痛病懸飲者十棗湯主之十棗湯方芫花熬甘遂大㦸各等分右三味搗篩以水一升五合先煮肥大棗十枚取九合去滓内藥末强人服一錢匕羸人服半錢平旦服不下者明日更加半錢得快下後糜粥自養病溢飲者當發其汗大青龍湯主之小青龍湯亦主之大青龍湯方}
+  - {type: punctuation, offset: 331, content: ，, id: KR3e0007_CHANT_002-bkkpn83}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR3e0007_CHANT_002-6a.4}
+  - {type: variant, offset: 332, length: 1, content: 黃, krp: 黄}
+  - {type: variant, offset: 333, length: 1, content: 三, krp: 六}
+  - {type: variant, offset: 334, length: 23, content: 兩去節桂二兩去皮芍藥二兩甘草二兩炙生姜三兩大棗, SBCK: 枚半夏}
+  - {type: variant, offset: 334, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 335, content: ，, id: KR3e0007_CHANT_002-bkkpn84}
+  - {type: 'tls:seg', offset: 335, content: '', id: KR3e0007_CHANT_002-6a.5}
+  - {type: punctuation, offset: 337, content: ；, id: KR3e0007_CHANT_002-bkkpn85}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR3e0007_CHANT_002-6a.6}
+  - {type: variant, offset: 338, length: 0, content: '', krp: 枝}
+  - {type: variant, offset: 339, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 340, content: ，, id: KR3e0007_CHANT_002-bkkpn86}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR3e0007_CHANT_002-6a.7}
+  - {type: punctuation, offset: 342, content: ；, id: KR3e0007_CHANT_002-bkkpn87}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3e0007_CHANT_002-6a.8}
+  - {type: variant, offset: 342, length: 4, content: 芍藥二兩, krp: ''}
+  - {type: punctuation, offset: 346, content: ，, id: KR3e0007_CHANT_002-bkkpn88}
+  - {type: 'tls:seg', offset: 346, content: '', id: KR3e0007_CHANT_002-6a.9}
+  - {type: variant, offset: 349, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 350, content: ，, id: KR3e0007_CHANT_002-bkkpn89}
+  - {type: 'tls:seg', offset: 350, content: '', id: KR3e0007_CHANT_002-6a.10}
+  - {type: punctuation, offset: 351, content: ；, id: KR3e0007_CHANT_002-bkkpn90}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR3e0007_CHANT_002-6a.11}
+  - {type: variant, offset: 351, length: 0, content: '', krp: 杏仁四十箇去皮尖}
+  - {type: variant, offset: 354, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 355, content: ，, id: KR3e0007_CHANT_002-bkkpn91}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR3e0007_CHANT_002-6a.12}
+  - {type: punctuation, offset: 360, content: 。, id: KR3e0007_CHANT_002-bkkpn92}
+  - {type: xml-element, offset: 360, content: '', id: KR3e0007_CHANT_002-bkkxmlele22}
+  - {type: xml-element, offset: 360, content: '', id: KR3e0007_CHANT_002-bkkxmlele23}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR3e0007_CHANT_002-7a.1}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR3e0007_CHANT_002-7a.2}
+  - {type: variant, offset: 360, length: 5, content: 右七味㕮咀, SBCK: ''}
+  - {type: variant, offset: 360, length: 0, content: '', krp: 石膏如鷄子大研}
+  - {type: punctuation, offset: 363, content: ，, id: KR3e0007_CHANT_002-bkkpn93}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3e0007_CHANT_002-7a.3}
+  - {type: variant, offset: 363, length: 2, content: 㕮咀, krp: ''}
+  - {type: punctuation, offset: 365, content: ，, id: KR3e0007_CHANT_002-bkkpn94}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR3e0007_CHANT_002-7a.4}
+  - {type: variant, offset: 367, length: 1, content: 一, krp: 九}
+  - {type: punctuation, offset: 369, content: ，, id: KR3e0007_CHANT_002-bkkpn95}
+  - {type: 'tls:seg', offset: 369, content: '', id: KR3e0007_CHANT_002-7a.5}
+  - {type: variant, offset: 369, length: 0, content: '', SBCK: 煮取半升去滓芍藥五枚甘草如指大一枚炙一本作無右四味以水二升煮取半升去滓以􅁡半升和藥汁煎取八合頓服之脉浮而細滑傷飲脉弦數有寒飲冬夏難治脉沉而弦者懸飲内痛病懸飲者十􅀥湯主之十􅀥湯方芫花熬甘遂大㦸各等分右三味搗篩以水一升五合先煮肥大􅀥十枚取九合去滓内藥末强人服一錢匕羸人服半錢平旦服不下者明日更加半錢得快下後糜粥自養病溢飲者當發其汗大青龍湯主之小青龍湯亦主之大青龍湯方麻黄六两去節桂枝二两去皮甘草二两炙杏仁四十箇去皮尖生姜三两大􅀥十二枚石膏如鷄子大研右七味以水九升}
+  - {type: page-break, offset: 369, content: '', id: KR3e0007_SBCK_002-5b}
+  - {type: page-break, offset: 369, content: '', id: KR3e0007_SBCK_002-6a}
+  - {type: variant, offset: 372, length: 4, content: 黃葛根減, SBCK: 黄减}
+  - {type: variant, offset: 372, length: 4, content: 黃葛根減, krp: 黄减}
+  - {type: punctuation, offset: 373, content: 、, id: KR3e0007_CHANT_002-bkkpn96}
+  - {type: punctuation, offset: 375, content: ，, id: KR3e0007_CHANT_002-bkkpn97}
+  - {type: 'tls:seg', offset: 375, content: '', id: KR3e0007_CHANT_002-7a.6}
+  - {type: punctuation, offset: 378, content: ，, id: KR3e0007_CHANT_002-bkkpn98}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR3e0007_CHANT_002-7a.7}
+  - {type: variant, offset: 379, length: 0, content: '', SBCK: 上}
+  - {type: variant, offset: 379, length: 0, content: '', krp: 上}
+  - {type: punctuation, offset: 380, content: ，, id: KR3e0007_CHANT_002-bkkpn99}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR3e0007_CHANT_002-7a.8}
+  - {type: variant, offset: 380, length: 1, content: 內, SBCK: 内}
+  - {type: variant, offset: 380, length: 1, content: 內, krp: 内}
+  - {type: punctuation, offset: 383, content: ，, id: KR3e0007_CHANT_002-bkkpn100}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR3e0007_CHANT_002-7a.9}
+  - {type: punctuation, offset: 387, content: ，, id: KR3e0007_CHANT_002-bkkpn101}
+  - {type: 'tls:seg', offset: 387, content: '', id: KR3e0007_CHANT_002-7a.10}
+  - {type: punctuation, offset: 389, content: ，, id: KR3e0007_CHANT_002-bkkpn102}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3e0007_CHANT_002-7a.11}
+  - {type: variant, offset: 389, length: 1, content: 溫, SBCK: 温}
+  - {type: variant, offset: 389, length: 1, content: 溫, krp: 温}
+  - {type: variant, offset: 391, length: 1, content: 乙, SBCK: 一}
+  - {type: variant, offset: 391, length: 1, content: 乙, krp: 一}
+  - {type: punctuation, offset: 393, content: ，, id: KR3e0007_CHANT_002-bkkpn103}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR3e0007_CHANT_002-7a.12}
+  - {type: variant, offset: 393, length: 1, content: 覆, SBCK: ''}
+  - {type: variant, offset: 393, length: 1, content: 覆, krp: ''}
+  - {type: variant, offset: 395, length: 1, content: 微, SBCK: 㣲}
+  - {type: variant, offset: 395, length: 1, content: 微, krp: 㣲}
+  - {type: punctuation, offset: 398, content: ，, id: KR3e0007_CHANT_002-bkkpn104}
+  - {type: 'tls:seg', offset: 398, content: '', id: KR3e0007_CHANT_002-7a.13}
+  - {type: variant, offset: 398, length: 6, content: 不須啜粥餘如, SBCK: 汗多者温粉粉之小青龍湯方麻黃去節三两芍藥三两五味子半斤乾姜三两甘草三两炙細辛三两}
+  - {type: variant, offset: 398, length: 6, content: 不須啜粥餘如, krp: 汗多者温粉粉之小青龍湯方麻黃去節三两芍藥三两五味子半斤乾姜三两甘草三两炙細辛三两}
+  - {type: punctuation, offset: 402, content: 。, id: KR3e0007_CHANT_002-bkkpn105}
+  - {type: 'tls:seg', offset: 402, content: '', id: KR3e0007_CHANT_002-7a.14}
+  - {type: variant, offset: 406, length: 46, content: 湯法將息及禁忌痓為病胸滿口噤臥不著席腳攣急必齘齒可與大承氣湯大承氣湯方大黃四兩酒洗厚朴半斤炙, SBCK: 三两}
+  - {type: variant, offset: 406, length: 46, content: 湯法將息及禁忌痓為病胸滿口噤臥不著席腳攣急必齘齒可與大承氣湯大承氣湯方大黃四兩酒洗厚朴半斤炙, krp: 三两}
+  - {type: punctuation, offset: 413, content: 。, id: KR3e0007_CHANT_002-bkkpn106}
+  - {type: xml-element, offset: 413, content: '', id: KR3e0007_CHANT_002-bkkxmlele24}
+  - {type: xml-element, offset: 413, content: '', id: KR3e0007_CHANT_002-bkkxmlele25}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3e0007_CHANT_002-8a.1}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3e0007_CHANT_002-8a.2}
+  - {type: punctuation, offset: 416, content: ，, id: KR3e0007_CHANT_002-bkkpn107}
+  - {type: 'tls:seg', offset: 416, content: '', id: KR3e0007_CHANT_002-8a.3}
+  - {type: punctuation, offset: 420, content: ，, id: KR3e0007_CHANT_002-bkkpn108}
+  - {type: 'tls:seg', offset: 420, content: '', id: KR3e0007_CHANT_002-8a.4}
+  - {type: punctuation, offset: 424, content: ，, id: KR3e0007_CHANT_002-bkkpn109}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3e0007_CHANT_002-8a.5}
+  - {type: punctuation, offset: 427, content: ，, id: KR3e0007_CHANT_002-bkkpn110}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3e0007_CHANT_002-8a.6}
+  - {type: punctuation, offset: 430, content: ，, id: KR3e0007_CHANT_002-bkkpn111}
+  - {type: 'tls:seg', offset: 430, content: '', id: KR3e0007_CHANT_002-8a.7}
+  - {type: punctuation, offset: 436, content: 。, id: KR3e0007_CHANT_002-bkkpn112}
+  - {type: xml-element, offset: 436, content: '', id: KR3e0007_CHANT_002-bkkxmlele26}
+  - {type: xml-element, offset: 436, content: '', id: KR3e0007_CHANT_002-bkkxmlele27}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR3e0007_CHANT_002-8a.8}
+  - {type: punctuation, offset: 441, content: ：, id: KR3e0007_CHANT_002-bkkpn113}
+  - {type: xml-element, offset: 441, content: '', id: KR3e0007_CHANT_002-bkkxmlele28}
+  - {type: xml-element, offset: 441, content: '', id: KR3e0007_CHANT_002-bkkxmlele29}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR3e0007_CHANT_002-9a.1}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR3e0007_CHANT_002-9a.2}
+  - {type: punctuation, offset: 445, content: ，, id: KR3e0007_CHANT_002-bkkpn114}
+  - {type: 'tls:seg', offset: 445, content: '', id: KR3e0007_CHANT_002-9a.3}
+  - {type: punctuation, offset: 447, content: ；, id: KR3e0007_CHANT_002-bkkpn115}
+  - {type: 'tls:seg', offset: 447, content: '', id: KR3e0007_CHANT_002-9a.4}
+  - {type: punctuation, offset: 451, content: ，, id: KR3e0007_CHANT_002-bkkpn116}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR3e0007_CHANT_002-9a.5}
+  - {type: punctuation, offset: 452, content: ，, id: KR3e0007_CHANT_002-bkkpn117}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR3e0007_CHANT_002-9a.6}
+  - {type: punctuation, offset: 454, content: ；, id: KR3e0007_CHANT_002-bkkpn118}
+  - {type: 'tls:seg', offset: 454, content: '', id: KR3e0007_CHANT_002-9a.7}
+  - {type: variant, offset: 454, length: 9, content: 枳實五枚炙芒硝三合, SBCK: 半夏半升湯洗}
+  - {type: variant, offset: 454, length: 9, content: 枳實五枚炙芒硝三合, krp: 半夏半升湯洗}
+  - {type: punctuation, offset: 458, content: ，, id: KR3e0007_CHANT_002-bkkpn119}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3e0007_CHANT_002-9a.8}
+  - {type: punctuation, offset: 459, content: ；, id: KR3e0007_CHANT_002-bkkpn120}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3e0007_CHANT_002-9a.9}
+  - {type: punctuation, offset: 463, content: 。, id: KR3e0007_CHANT_002-bkkpn121}
+  - {type: xml-element, offset: 463, content: '', id: KR3e0007_CHANT_002-bkkxmlele30}
+  - {type: xml-element, offset: 463, content: '', id: KR3e0007_CHANT_002-bkkxmlele31}
+  - {type: 'tls:seg', offset: 463, content: '', id: KR3e0007_CHANT_002-9a.10}
+  - {type: page-break, offset: 463, content: '', id: KR3e0007_SBCK_002-6b}
+  - {type: variant, offset: 464, length: 1, content: 四, SBCK: 八}
+  - {type: variant, offset: 464, length: 1, content: 四, krp: 八}
+  - {type: punctuation, offset: 466, content: ，, id: KR3e0007_CHANT_002-bkkpn122}
+  - {type: 'tls:seg', offset: 466, content: '', id: KR3e0007_CHANT_002-9a.11}
+  - {type: punctuation, offset: 470, content: ，, id: KR3e0007_CHANT_002-bkkpn123}
+  - {type: 'tls:seg', offset: 470, content: '', id: KR3e0007_CHANT_002-9a.12}
+  - {type: variant, offset: 472, length: 293, content: 二物取五升去滓內大黃煮取二升去滓內芒硝更上火微一二沸分溫再服得下止服太陽病關節疼痛而煩脈沉而細者此名濕痹濕痺之候小便不利大便反快但當利其小便濕家之為病一身盡疼發熱身色如熏黃也濕家其人但頭汗出背強欲得被覆向火若下之早則噦或胸滿小便不利舌上如胎者以丹田有熱胸上有寒渴欲得飲而不能飲則口燥煩也濕家下之額上汗出微喘小便利者死若下利不止者亦死風濕相搏一身盡疼痛法當汗出而解值天陰雨不止醫云此可發汗汗之病不愈者何也蓋發其汗汗大出者但風氣去濕氣在是故不愈也若治風濕者發其汗但微微似欲出汗者風濕俱去也濕家病身疼發熱面黃而喘頭痛鼻塞而煩其脈大自能飲食腹中和無病病在頭中寒濕故鼻塞內藥鼻中則愈濕家身煩疼可與, SBCK: ''}
+  - {type: variant, offset: 472, length: 293, content: 二物取五升去滓內大黃煮取二升去滓內芒硝更上火微一二沸分溫再服得下止服太陽病關節疼痛而煩脈沉而細者此名濕痹濕痺之候小便不利大便反快但當利其小便濕家之為病一身盡疼發熱身色如熏黃也濕家其人但頭汗出背強欲得被覆向火若下之早則噦或胸滿小便不利舌上如胎者以丹田有熱胸上有寒渴欲得飲而不能飲則口燥煩也濕家下之額上汗出微喘小便利者死若下利不止者亦死風濕相搏一身盡疼痛法當汗出而解值天陰雨不止醫云此可發汗汗之病不愈者何也蓋發其汗汗大出者但風氣去濕氣在是故不愈也若治風濕者發其汗但微微似欲出汗者風濕俱去也濕家病身疼發熱面黃而喘頭痛鼻塞而煩其脈大自能飲食腹中和無病病在頭中寒濕故鼻塞內藥鼻中則愈濕家身煩疼可與, krp: ''}
+  - {type: punctuation, offset: 474, content: ，, id: KR3e0007_CHANT_002-bkkpn124}
+  - {type: 'tls:seg', offset: 474, content: '', id: KR3e0007_CHANT_002-9a.13}
+  - {type: punctuation, offset: 477, content: ；, id: KR3e0007_CHANT_002-bkkpn125}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR3e0007_CHANT_002-9a.14}
+  - {type: punctuation, offset: 479, content: ，, id: KR3e0007_CHANT_002-bkkpn126}
+  - {type: 'tls:seg', offset: 479, content: '', id: KR3e0007_CHANT_002-9a.15}
+  - {type: punctuation, offset: 482, content: ，, id: KR3e0007_CHANT_002-bkkpn127}
+  - {type: 'tls:seg', offset: 482, content: '', id: KR3e0007_CHANT_002-9a.16}
+  - {type: punctuation, offset: 486, content: ；, id: KR3e0007_CHANT_002-bkkpn128}
+  - {type: 'tls:seg', offset: 486, content: '', id: KR3e0007_CHANT_002-9a.17}
+  - {type: punctuation, offset: 488, content: ，, id: KR3e0007_CHANT_002-bkkpn129}
+  - {type: 'tls:seg', offset: 488, content: '', id: KR3e0007_CHANT_002-9a.18}
+  - {type: punctuation, offset: 491, content: ，, id: KR3e0007_CHANT_002-bkkpn130}
+  - {type: 'tls:seg', offset: 491, content: '', id: KR3e0007_CHANT_002-9a.19}
+  - {type: punctuation, offset: 498, content: ，, id: KR3e0007_CHANT_002-bkkpn131}
+  - {type: 'tls:seg', offset: 498, content: '', id: KR3e0007_CHANT_002-9a.20}
+  - {type: punctuation, offset: 502, content: ，, id: KR3e0007_CHANT_002-bkkpn132}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR3e0007_CHANT_002-9a.21}
+  - {type: punctuation, offset: 506, content: 。, id: KR3e0007_CHANT_002-bkkpn133}
+  - {type: xml-element, offset: 506, content: '', id: KR3e0007_CHANT_002-bkkxmlele32}
+  - {type: xml-element, offset: 506, content: '', id: KR3e0007_CHANT_002-bkkxmlele33}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR3e0007_CHANT_002-10a.1}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR3e0007_CHANT_002-10a.2}
+  - {type: punctuation, offset: 509, content: ，, id: KR3e0007_CHANT_002-bkkpn134}
+  - {type: 'tls:seg', offset: 509, content: '', id: KR3e0007_CHANT_002-10a.3}
+  - {type: punctuation, offset: 515, content: ，, id: KR3e0007_CHANT_002-bkkpn135}
+  - {type: 'tls:seg', offset: 515, content: '', id: KR3e0007_CHANT_002-10a.4}
+  - {type: punctuation, offset: 520, content: ，, id: KR3e0007_CHANT_002-bkkpn136}
+  - {type: 'tls:seg', offset: 520, content: '', id: KR3e0007_CHANT_002-10a.5}
+  - {type: punctuation, offset: 524, content: 。, id: KR3e0007_CHANT_002-bkkpn137}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR3e0007_CHANT_002-10a.6}
+  - {type: punctuation, offset: 528, content: ，, id: KR3e0007_CHANT_002-bkkpn138}
+  - {type: 'tls:seg', offset: 528, content: '', id: KR3e0007_CHANT_002-10a.7}
+  - {type: punctuation, offset: 532, content: ，, id: KR3e0007_CHANT_002-bkkpn139}
+  - {type: 'tls:seg', offset: 532, content: '', id: KR3e0007_CHANT_002-10a.8}
+  - {type: punctuation, offset: 536, content: ，, id: KR3e0007_CHANT_002-bkkpn140}
+  - {type: 'tls:seg', offset: 536, content: '', id: KR3e0007_CHANT_002-10a.9}
+  - {type: punctuation, offset: 542, content: 。, id: KR3e0007_CHANT_002-bkkpn141}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR3e0007_CHANT_002-10a.10}
+  - {type: punctuation, offset: 547, content: ，, id: KR3e0007_CHANT_002-bkkpn142}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR3e0007_CHANT_002-10a.11}
+  - {type: punctuation, offset: 551, content: ，, id: KR3e0007_CHANT_002-bkkpn143}
+  - {type: 'tls:seg', offset: 551, content: '', id: KR3e0007_CHANT_002-10a.12}
+  - {type: punctuation, offset: 553, content: ，, id: KR3e0007_CHANT_002-bkkpn144}
+  - {type: 'tls:seg', offset: 553, content: '', id: KR3e0007_CHANT_002-10a.13}
+  - {type: punctuation, offset: 559, content: 。, id: KR3e0007_CHANT_002-bkkpn145}
+  - {type: xml-element, offset: 559, content: '', id: KR3e0007_CHANT_002-bkkxmlele34}
+  - {type: xml-element, offset: 559, content: '', id: KR3e0007_CHANT_002-bkkxmlele35}
+  - {type: 'tls:seg', offset: 559, content: '', id: KR3e0007_CHANT_002-11a.1}
+  - {type: 'tls:seg', offset: 559, content: '', id: KR3e0007_CHANT_002-11a.2}
+  - {type: punctuation, offset: 561, content: ，, id: KR3e0007_CHANT_002-bkkpn146}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR3e0007_CHANT_002-11a.3}
+  - {type: punctuation, offset: 567, content: ，, id: KR3e0007_CHANT_002-bkkpn147}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR3e0007_CHANT_002-11a.4}
+  - {type: punctuation, offset: 575, content: 。, id: KR3e0007_CHANT_002-bkkpn148}
+  - {type: 'tls:seg', offset: 575, content: '', id: KR3e0007_CHANT_002-11a.5}
+  - {type: punctuation, offset: 581, content: ，, id: KR3e0007_CHANT_002-bkkpn149}
+  - {type: 'tls:seg', offset: 581, content: '', id: KR3e0007_CHANT_002-11a.6}
+  - {type: punctuation, offset: 584, content: ，, id: KR3e0007_CHANT_002-bkkpn150}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3e0007_CHANT_002-11a.7}
+  - {type: punctuation, offset: 588, content: ，, id: KR3e0007_CHANT_002-bkkpn151}
+  - {type: 'tls:seg', offset: 588, content: '', id: KR3e0007_CHANT_002-11a.8}
+  - {type: punctuation, offset: 593, content: ，, id: KR3e0007_CHANT_002-bkkpn152}
+  - {type: 'tls:seg', offset: 593, content: '', id: KR3e0007_CHANT_002-11a.9}
+  - {type: punctuation, offset: 598, content: ，, id: KR3e0007_CHANT_002-bkkpn153}
+  - {type: 'tls:seg', offset: 598, content: '', id: KR3e0007_CHANT_002-11a.10}
+  - {type: punctuation, offset: 602, content: ，, id: KR3e0007_CHANT_002-bkkpn154}
+  - {type: 'tls:seg', offset: 602, content: '', id: KR3e0007_CHANT_002-11a.11}
+  - {type: punctuation, offset: 610, content: ，, id: KR3e0007_CHANT_002-bkkpn155}
+  - {type: 'tls:seg', offset: 610, content: '', id: KR3e0007_CHANT_002-11a.12}
+  - {type: punctuation, offset: 615, content: 。, id: KR3e0007_CHANT_002-bkkpn156}
+  - {type: 'tls:seg', offset: 615, content: '', id: KR3e0007_CHANT_002-11a.13}
+  - {type: punctuation, offset: 617, content: ，, id: KR3e0007_CHANT_002-bkkpn157}
+  - {type: 'tls:seg', offset: 617, content: '', id: KR3e0007_CHANT_002-11a.14}
+  - {type: punctuation, offset: 619, content: ，, id: KR3e0007_CHANT_002-bkkpn158}
+  - {type: 'tls:seg', offset: 619, content: '', id: KR3e0007_CHANT_002-11a.15}
+  - {type: punctuation, offset: 623, content: ，, id: KR3e0007_CHANT_002-bkkpn159}
+  - {type: 'tls:seg', offset: 623, content: '', id: KR3e0007_CHANT_002-11a.16}
+  - {type: punctuation, offset: 625, content: ，, id: KR3e0007_CHANT_002-bkkpn160}
+  - {type: 'tls:seg', offset: 625, content: '', id: KR3e0007_CHANT_002-11a.17}
+  - {type: punctuation, offset: 630, content: ；, id: KR3e0007_CHANT_002-bkkpn161}
+  - {type: 'tls:seg', offset: 630, content: '', id: KR3e0007_CHANT_002-11a.18}
+  - {type: punctuation, offset: 638, content: 。, id: KR3e0007_CHANT_002-bkkpn162}
+  - {type: 'tls:seg', offset: 638, content: '', id: KR3e0007_CHANT_002-11a.19}
+  - {type: punctuation, offset: 642, content: ，, id: KR3e0007_CHANT_002-bkkpn163}
+  - {type: 'tls:seg', offset: 642, content: '', id: KR3e0007_CHANT_002-11a.20}
+  - {type: punctuation, offset: 647, content: ，, id: KR3e0007_CHANT_002-bkkpn164}
+  - {type: 'tls:seg', offset: 647, content: '', id: KR3e0007_CHANT_002-11a.21}
+  - {type: punctuation, offset: 653, content: ，, id: KR3e0007_CHANT_002-bkkpn165}
+  - {type: 'tls:seg', offset: 653, content: '', id: KR3e0007_CHANT_002-11a.22}
+  - {type: punctuation, offset: 659, content: ，, id: KR3e0007_CHANT_002-bkkpn166}
+  - {type: 'tls:seg', offset: 659, content: '', id: KR3e0007_CHANT_002-11a.23}
+  - {type: punctuation, offset: 661, content: ：, id: KR3e0007_CHANT_002-bkkpn167}
+  - {type: 'tls:seg', offset: 661, content: '', id: KR3e0007_CHANT_002-11a.24}
+  - {type: punctuation, offset: 665, content: 。, id: KR3e0007_CHANT_002-bkkpn168}
+  - {type: 'tls:seg', offset: 665, content: '', id: KR3e0007_CHANT_002-11a.25}
+  - {type: punctuation, offset: 671, content: ，, id: KR3e0007_CHANT_002-bkkpn169}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR3e0007_CHANT_002-11a.26}
+  - {type: punctuation, offset: 673, content: ？, id: KR3e0007_CHANT_002-bkkpn170}
+  - {type: 'tls:seg', offset: 673, content: '', id: KR3e0007_CHANT_002-11a.27}
+  - {type: punctuation, offset: 677, content: ，, id: KR3e0007_CHANT_002-bkkpn171}
+  - {type: 'tls:seg', offset: 677, content: '', id: KR3e0007_CHANT_002-11a.28}
+  - {type: punctuation, offset: 681, content: ，, id: KR3e0007_CHANT_002-bkkpn172}
+  - {type: 'tls:seg', offset: 681, content: '', id: KR3e0007_CHANT_002-11a.29}
+  - {type: punctuation, offset: 685, content: ，, id: KR3e0007_CHANT_002-bkkpn173}
+  - {type: 'tls:seg', offset: 685, content: '', id: KR3e0007_CHANT_002-11a.30}
+  - {type: punctuation, offset: 688, content: ，, id: KR3e0007_CHANT_002-bkkpn174}
+  - {type: 'tls:seg', offset: 688, content: '', id: KR3e0007_CHANT_002-11a.31}
+  - {type: punctuation, offset: 693, content: 。, id: KR3e0007_CHANT_002-bkkpn175}
+  - {type: 'tls:seg', offset: 693, content: '', id: KR3e0007_CHANT_002-11a.32}
+  - {type: punctuation, offset: 698, content: ，, id: KR3e0007_CHANT_002-bkkpn176}
+  - {type: 'tls:seg', offset: 698, content: '', id: KR3e0007_CHANT_002-11a.33}
+  - {type: punctuation, offset: 701, content: ，, id: KR3e0007_CHANT_002-bkkpn177}
+  - {type: 'tls:seg', offset: 701, content: '', id: KR3e0007_CHANT_002-11a.34}
+  - {type: punctuation, offset: 709, content: ，, id: KR3e0007_CHANT_002-bkkpn178}
+  - {type: 'tls:seg', offset: 709, content: '', id: KR3e0007_CHANT_002-11a.35}
+  - {type: punctuation, offset: 714, content: 。, id: KR3e0007_CHANT_002-bkkpn179}
+  - {type: 'tls:seg', offset: 714, content: '', id: KR3e0007_CHANT_002-11a.36}
+  - {type: punctuation, offset: 717, content: ，, id: KR3e0007_CHANT_002-bkkpn180}
+  - {type: 'tls:seg', offset: 717, content: '', id: KR3e0007_CHANT_002-11a.37}
+  - {type: punctuation, offset: 721, content: ，, id: KR3e0007_CHANT_002-bkkpn181}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR3e0007_CHANT_002-11a.38}
+  - {type: punctuation, offset: 725, content: ，, id: KR3e0007_CHANT_002-bkkpn182}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR3e0007_CHANT_002-11a.39}
+  - {type: punctuation, offset: 731, content: ，, id: KR3e0007_CHANT_002-bkkpn183}
+  - {type: 'tls:seg', offset: 731, content: '', id: KR3e0007_CHANT_002-11a.40}
+  - {type: punctuation, offset: 734, content: ，, id: KR3e0007_CHANT_002-bkkpn184}
+  - {type: 'tls:seg', offset: 734, content: '', id: KR3e0007_CHANT_002-11a.41}
+  - {type: punctuation, offset: 738, content: ，, id: KR3e0007_CHANT_002-bkkpn185}
+  - {type: 'tls:seg', offset: 738, content: '', id: KR3e0007_CHANT_002-11a.42}
+  - {type: punctuation, offset: 743, content: ，, id: KR3e0007_CHANT_002-bkkpn186}
+  - {type: 'tls:seg', offset: 743, content: '', id: KR3e0007_CHANT_002-11a.43}
+  - {type: punctuation, offset: 749, content: ，, id: KR3e0007_CHANT_002-bkkpn187}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR3e0007_CHANT_002-11a.44}
+  - {type: punctuation, offset: 752, content: ，, id: KR3e0007_CHANT_002-bkkpn188}
+  - {type: 'tls:seg', offset: 752, content: '', id: KR3e0007_CHANT_002-11a.45}
+  - {type: punctuation, offset: 758, content: 。, id: KR3e0007_CHANT_002-bkkpn189}
+  - {type: 'tls:seg', offset: 758, content: '', id: KR3e0007_CHANT_002-11a.46}
+  - {type: punctuation, offset: 760, content: ，, id: KR3e0007_CHANT_002-bkkpn190}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR3e0007_CHANT_002-11a.47}
+  - {type: punctuation, offset: 763, content: ，, id: KR3e0007_CHANT_002-bkkpn191}
+  - {type: 'tls:seg', offset: 763, content: '', id: KR3e0007_CHANT_002-11a.48}
+  - {type: variant, offset: 766, length: 63, content: 黃加朮湯發其汗為宜慎不可以火攻之麻黃加朮湯方麻黃三兩去節桂枝二兩去皮甘草二兩炙杏仁七十箇去皮尖白朮四兩右五味以水九升先煮麻黃減, SBCK: 黄减}
+  - {type: variant, offset: 766, length: 63, content: 黃加朮湯發其汗為宜慎不可以火攻之麻黃加朮湯方麻黃三兩去節桂枝二兩去皮甘草二兩炙杏仁七十箇去皮尖白朮四兩右五味以水九升先煮麻黃減, krp: 黄减}
+  - {type: punctuation, offset: 775, content: ，, id: KR3e0007_CHANT_002-bkkpn192}
+  - {type: 'tls:seg', offset: 775, content: '', id: KR3e0007_CHANT_002-11a.49}
+  - {type: punctuation, offset: 782, content: 。, id: KR3e0007_CHANT_002-bkkpn193}
+  - {type: xml-element, offset: 782, content: '', id: KR3e0007_CHANT_002-bkkxmlele36}
+  - {type: xml-element, offset: 782, content: '', id: KR3e0007_CHANT_002-bkkxmlele37}
+  - {type: 'tls:seg', offset: 782, content: '', id: KR3e0007_CHANT_002-12a.1}
+  - {type: 'tls:seg', offset: 782, content: '', id: KR3e0007_CHANT_002-12a.2}
+  - {type: punctuation, offset: 788, content: ：, id: KR3e0007_CHANT_002-bkkpn194}
+  - {type: xml-element, offset: 788, content: '', id: KR3e0007_CHANT_002-bkkxmlele38}
+  - {type: xml-element, offset: 788, content: '', id: KR3e0007_CHANT_002-bkkxmlele39}
+  - {type: 'tls:seg', offset: 788, content: '', id: KR3e0007_CHANT_002-12a.3}
+  - {type: punctuation, offset: 792, content: ，, id: KR3e0007_CHANT_002-bkkpn195}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR3e0007_CHANT_002-12a.4}
+  - {type: punctuation, offset: 794, content: ；, id: KR3e0007_CHANT_002-bkkpn196}
+  - {type: 'tls:seg', offset: 794, content: '', id: KR3e0007_CHANT_002-12a.5}
+  - {type: punctuation, offset: 798, content: ，, id: KR3e0007_CHANT_002-bkkpn197}
+  - {type: 'tls:seg', offset: 798, content: '', id: KR3e0007_CHANT_002-12a.6}
+  - {type: punctuation, offset: 800, content: ；, id: KR3e0007_CHANT_002-bkkpn198}
+  - {type: 'tls:seg', offset: 800, content: '', id: KR3e0007_CHANT_002-12a.7}
+  - {type: punctuation, offset: 804, content: ，, id: KR3e0007_CHANT_002-bkkpn199}
+  - {type: 'tls:seg', offset: 804, content: '', id: KR3e0007_CHANT_002-12a.8}
+  - {type: punctuation, offset: 805, content: ；, id: KR3e0007_CHANT_002-bkkpn200}
+  - {type: 'tls:seg', offset: 805, content: '', id: KR3e0007_CHANT_002-12a.9}
+  - {type: punctuation, offset: 810, content: ，, id: KR3e0007_CHANT_002-bkkpn201}
+  - {type: 'tls:seg', offset: 810, content: '', id: KR3e0007_CHANT_002-12a.10}
+  - {type: punctuation, offset: 812, content: 、, id: KR3e0007_CHANT_002-bkkpn202}
+  - {type: punctuation, offset: 813, content: ；, id: KR3e0007_CHANT_002-bkkpn203}
+  - {type: 'tls:seg', offset: 813, content: '', id: KR3e0007_CHANT_002-12a.11}
+  - {type: punctuation, offset: 817, content: 。, id: KR3e0007_CHANT_002-bkkpn204}
+  - {type: xml-element, offset: 817, content: '', id: KR3e0007_CHANT_002-bkkxmlele40}
+  - {type: xml-element, offset: 817, content: '', id: KR3e0007_CHANT_002-bkkxmlele41}
+  - {type: 'tls:seg', offset: 817, content: '', id: KR3e0007_CHANT_002-13a.1}
+  - {type: 'tls:seg', offset: 817, content: '', id: KR3e0007_CHANT_002-13a.2}
+  - {type: punctuation, offset: 820, content: ，, id: KR3e0007_CHANT_002-bkkpn205}
+  - {type: 'tls:seg', offset: 820, content: '', id: KR3e0007_CHANT_002-13a.3}
+  - {type: punctuation, offset: 824, content: ，, id: KR3e0007_CHANT_002-bkkpn206}
+  - {type: 'tls:seg', offset: 824, content: '', id: KR3e0007_CHANT_002-13a.4}
+  - {type: punctuation, offset: 828, content: ，, id: KR3e0007_CHANT_002-bkkpn207}
+  - {type: 'tls:seg', offset: 828, content: '', id: KR3e0007_CHANT_002-13a.5}
+  - {type: punctuation, offset: 831, content: ，, id: KR3e0007_CHANT_002-bkkpn208}
+  - {type: 'tls:seg', offset: 831, content: '', id: KR3e0007_CHANT_002-13a.6}
+  - {type: punctuation, offset: 834, content: ，, id: KR3e0007_CHANT_002-bkkpn209}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR3e0007_CHANT_002-13a.7}
+  - {type: variant, offset: 834, length: 1, content: 內, SBCK: 内}
+  - {type: variant, offset: 834, length: 1, content: 內, krp: 内}
+  - {type: variant, offset: 839, length: 1, content: 二, SBCK: 三}
+  - {type: variant, offset: 839, length: 1, content: 二, krp: 三}
+  - {type: variant, offset: 841, length: 1, content: 半, SBCK: ''}
+  - {type: variant, offset: 841, length: 1, content: 半, krp: ''}
+  - {type: punctuation, offset: 842, content: ，, id: KR3e0007_CHANT_002-bkkpn210}
+  - {type: 'tls:seg', offset: 842, content: '', id: KR3e0007_CHANT_002-13a.8}
+  - {type: punctuation, offset: 844, content: ，, id: KR3e0007_CHANT_002-bkkpn211}
+  - {type: 'tls:seg', offset: 844, content: '', id: KR3e0007_CHANT_002-13a.9}
+  - {type: variant, offset: 844, length: 1, content: 溫, SBCK: 温}
+  - {type: variant, offset: 844, length: 1, content: 溫, krp: 温}
+  - {type: variant, offset: 846, length: 9, content: 八合覆取微似汗病者, SBCK: ''}
+  - {type: variant, offset: 846, length: 9, content: 八合覆取微似汗病者, krp: ''}
+  - {type: punctuation, offset: 848, content: ，, id: KR3e0007_CHANT_002-bkkpn212}
+  - {type: 'tls:seg', offset: 848, content: '', id: KR3e0007_CHANT_002-13a.10}
+  - {type: punctuation, offset: 853, content: 。, id: KR3e0007_CHANT_002-bkkpn213}
+  - {type: xml-element, offset: 853, content: '', id: KR3e0007_CHANT_002-bkkxmlele42}
+  - {type: xml-element, offset: 853, content: '', id: KR3e0007_CHANT_002-bkkxmlele43}
+  - {type: 'tls:seg', offset: 853, content: '', id: KR3e0007_CHANT_002-14a.1}
+  - {type: 'tls:seg', offset: 853, content: '', id: KR3e0007_CHANT_002-14a.2}
+  - {type: variant, offset: 856, length: 5, content: 身盡疼發熱, SBCK: 升膈間支飲其人喘滿心下痞堅面色墨黒其脉沉􅂃得之數十}
+  - {type: variant, offset: 856, length: 5, content: 身盡疼發熱, krp: 升膈間支飲其人喘滿心下痞堅面色墨黒其脉沉緊得之數十}
+  - {type: punctuation, offset: 859, content: ，, id: KR3e0007_CHANT_002-bkkpn214}
+  - {type: 'tls:seg', offset: 859, content: '', id: KR3e0007_CHANT_002-14a.3}
+  - {type: punctuation, offset: 861, content: ，, id: KR3e0007_CHANT_002-bkkpn215}
+  - {type: 'tls:seg', offset: 861, content: '', id: KR3e0007_CHANT_002-14a.4}
+  - {type: variant, offset: 862, length: 106, content: 晡所劇者名風濕此病傷於汗出當風或久傷取冷所致也可與麻黃杏仁薏苡甘草湯麻黃杏仁薏苡甘草湯方麻黃去節半兩湯泡甘草一兩炙薏苡仁半兩杏仁十箇去皮尖炒右剉麻豆大每服四錢匕水盞半煮八分去滓溫服有微汗避風風濕脈浮身重汗出惡風者, SBCK: 醫􅄍下之不愈术}
+  - {type: variant, offset: 862, length: 106, content: 晡所劇者名風濕此病傷於汗出當風或久傷取冷所致也可與麻黃杏仁薏苡甘草湯麻黃杏仁薏苡甘草湯方麻黃去節半兩湯泡甘草一兩炙薏苡仁半兩杏仁十箇去皮尖炒右剉麻豆大每服四錢匕水盞半煮八分去滓溫服有微汗避風風濕脈浮身重汗出惡風者, krp: 醫吐下之不愈术}
+  - {type: punctuation, offset: 866, content: ，, id: KR3e0007_CHANT_002-bkkpn216}
+  - {type: 'tls:seg', offset: 866, content: '', id: KR3e0007_CHANT_002-14a.5}
+  - {type: punctuation, offset: 869, content: 。, id: KR3e0007_CHANT_002-bkkpn217}
+  - {type: 'tls:seg', offset: 869, content: '', id: KR3e0007_CHANT_002-14a.6}
+  - {type: punctuation, offset: 877, content: ，, id: KR3e0007_CHANT_002-bkkpn218}
+  - {type: 'tls:seg', offset: 877, content: '', id: KR3e0007_CHANT_002-14a.7}
+  - {type: punctuation, offset: 885, content: 。, id: KR3e0007_CHANT_002-bkkpn219}
+  - {type: 'tls:seg', offset: 885, content: '', id: KR3e0007_CHANT_002-14a.8}
+  - {type: punctuation, offset: 896, content: 。, id: KR3e0007_CHANT_002-bkkpn220}
+  - {type: xml-element, offset: 896, content: '', id: KR3e0007_CHANT_002-bkkxmlele44}
+  - {type: xml-element, offset: 896, content: '', id: KR3e0007_CHANT_002-bkkxmlele45}
+  - {type: 'tls:seg', offset: 896, content: '', id: KR3e0007_CHANT_002-14a.9}
+  - {type: punctuation, offset: 906, content: ：, id: KR3e0007_CHANT_002-bkkpn221}
+  - {type: xml-element, offset: 906, content: '', id: KR3e0007_CHANT_002-bkkxmlele46}
+  - {type: xml-element, offset: 906, content: '', id: KR3e0007_CHANT_002-bkkxmlele47}
+  - {type: 'tls:seg', offset: 906, content: '', id: KR3e0007_CHANT_002-15a.1}
+  - {type: 'tls:seg', offset: 906, content: '', id: KR3e0007_CHANT_002-15a.2}
+  - {type: punctuation, offset: 908, content: ，, id: KR3e0007_CHANT_002-bkkpn222}
+  - {type: 'tls:seg', offset: 908, content: '', id: KR3e0007_CHANT_002-15a.3}
+  - {type: punctuation, offset: 910, content: ，, id: KR3e0007_CHANT_002-bkkpn223}
+  - {type: 'tls:seg', offset: 910, content: '', id: KR3e0007_CHANT_002-15a.4}
+  - {type: punctuation, offset: 912, content: ，, id: KR3e0007_CHANT_002-bkkpn224}
+  - {type: 'tls:seg', offset: 912, content: '', id: KR3e0007_CHANT_002-15a.5}
+  - {type: punctuation, offset: 914, content: ；, id: KR3e0007_CHANT_002-bkkpn225}
+  - {type: 'tls:seg', offset: 914, content: '', id: KR3e0007_CHANT_002-15a.6}
+  - {type: punctuation, offset: 918, content: ，, id: KR3e0007_CHANT_002-bkkpn226}
+  - {type: 'tls:seg', offset: 918, content: '', id: KR3e0007_CHANT_002-15a.7}
+  - {type: punctuation, offset: 919, content: ；, id: KR3e0007_CHANT_002-bkkpn227}
+  - {type: 'tls:seg', offset: 919, content: '', id: KR3e0007_CHANT_002-15a.8}
+  - {type: punctuation, offset: 924, content: ，, id: KR3e0007_CHANT_002-bkkpn228}
+  - {type: 'tls:seg', offset: 924, content: '', id: KR3e0007_CHANT_002-15a.9}
+  - {type: punctuation, offset: 928, content: ，, id: KR3e0007_CHANT_002-bkkpn229}
+  - {type: 'tls:seg', offset: 928, content: '', id: KR3e0007_CHANT_002-15a.10}
+  - {type: punctuation, offset: 930, content: ，, id: KR3e0007_CHANT_002-bkkpn230}
+  - {type: 'tls:seg', offset: 930, content: '', id: KR3e0007_CHANT_002-15a.11}
+  - {type: punctuation, offset: 932, content: 。, id: KR3e0007_CHANT_002-bkkpn231}
+  - {type: xml-element, offset: 932, content: '', id: KR3e0007_CHANT_002-bkkxmlele48}
+  - {type: xml-element, offset: 932, content: '', id: KR3e0007_CHANT_002-bkkxmlele49}
+  - {type: 'tls:seg', offset: 932, content: '', id: KR3e0007_CHANT_002-16a.1}
+  - {type: 'tls:seg', offset: 932, content: '', id: KR3e0007_CHANT_002-16a.2}
+  - {type: substitution, offset: 933, original: 剉, replacement: 銼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2191}}
+  - {type: punctuation, offset: 937, content: ，, id: KR3e0007_CHANT_002-bkkpn232}
+  - {type: 'tls:seg', offset: 937, content: '', id: KR3e0007_CHANT_002-16a.3}
+  - {type: punctuation, offset: 942, content: ，, id: KR3e0007_CHANT_002-bkkpn233}
+  - {type: 'tls:seg', offset: 942, content: '', id: KR3e0007_CHANT_002-16a.4}
+  - {type: punctuation, offset: 945, content: ，, id: KR3e0007_CHANT_002-bkkpn234}
+  - {type: 'tls:seg', offset: 945, content: '', id: KR3e0007_CHANT_002-16a.5}
+  - {type: punctuation, offset: 948, content: ，, id: KR3e0007_CHANT_002-bkkpn235}
+  - {type: 'tls:seg', offset: 948, content: '', id: KR3e0007_CHANT_002-16a.6}
+  - {type: punctuation, offset: 952, content: 。, id: KR3e0007_CHANT_002-bkkpn236}
+  - {type: 'tls:seg', offset: 952, content: '', id: KR3e0007_CHANT_002-16a.7}
+  - {type: punctuation, offset: 955, content: ，, id: KR3e0007_CHANT_002-bkkpn237}
+  - {type: 'tls:seg', offset: 955, content: '', id: KR3e0007_CHANT_002-16a.8}
+  - {type: punctuation, offset: 957, content: 。, id: KR3e0007_CHANT_002-bkkpn238}
+  - {type: xml-element, offset: 957, content: '', id: KR3e0007_CHANT_002-bkkxmlele50}
+  - {type: xml-element, offset: 957, content: '', id: KR3e0007_CHANT_002-bkkxmlele51}
+  - {type: 'tls:seg', offset: 957, content: '', id: KR3e0007_CHANT_002-16a.9}
+  - {type: punctuation, offset: 961, content: ，, id: KR3e0007_CHANT_002-bkkpn239}
+  - {type: 'tls:seg', offset: 961, content: '', id: KR3e0007_CHANT_002-16a.10}
+  - {type: punctuation, offset: 968, content: ，, id: KR3e0007_CHANT_002-bkkpn240}
+  - {type: 'tls:seg', offset: 968, content: '', id: KR3e0007_CHANT_002-16a.11}
+  - {type: variant, offset: 970, length: 2, content: 黃耆, SBCK: ''}
+  - {type: variant, offset: 970, length: 2, content: 黃耆, krp: ''}
+  - {type: punctuation, offset: 975, content: 。, id: KR3e0007_CHANT_002-bkkpn241}
+  - {type: xml-element, offset: 975, content: '', id: KR3e0007_CHANT_002-bkkxmlele52}
+  - {type: xml-element, offset: 975, content: '', id: KR3e0007_CHANT_002-bkkxmlele53}
+  - {type: 'tls:seg', offset: 975, content: '', id: KR3e0007_CHANT_002-17a.1}
+  - {type: 'tls:seg', offset: 975, content: '', id: KR3e0007_CHANT_002-17a.2}
+  - {type: variant, offset: 975, length: 0, content: '', SBCK: 虚者即愈實者三日復發復愈不愈者冝术}
+  - {type: variant, offset: 975, length: 0, content: '', krp: 虚者即愈實者三日復發復愈不愈者冝术}
+  - {type: variant, offset: 976, length: 3, content: 己黃耆, SBCK: 巳}
+  - {type: variant, offset: 976, length: 3, content: 己黃耆, krp: 巳}
+  - {type: variant, offset: 980, length: 21, content: 方防己一兩甘草半兩炒白朮七錢半黃耆一兩一分, SBCK: ''}
+  - {type: variant, offset: 980, length: 21, content: 方防己一兩甘草半兩炒白朮七錢半黃耆一兩一分, krp: ''}
+  - {type: punctuation, offset: 981, content: ：, id: KR3e0007_CHANT_002-bkkpn242}
+  - {type: xml-element, offset: 981, content: '', id: KR3e0007_CHANT_002-bkkxmlele54}
+  - {type: xml-element, offset: 981, content: '', id: KR3e0007_CHANT_002-bkkxmlele55}
+  - {type: 'tls:seg', offset: 981, content: '', id: KR3e0007_CHANT_002-17a.3}
+  - {type: punctuation, offset: 985, content: ，, id: KR3e0007_CHANT_002-bkkpn243}
+  - {type: 'tls:seg', offset: 985, content: '', id: KR3e0007_CHANT_002-17a.4}
+  - {type: punctuation, offset: 989, content: ，, id: KR3e0007_CHANT_002-bkkpn244}
+  - {type: 'tls:seg', offset: 989, content: '', id: KR3e0007_CHANT_002-17a.5}
+  - {type: punctuation, offset: 990, content: ；, id: KR3e0007_CHANT_002-bkkpn245}
+  - {type: 'tls:seg', offset: 990, content: '', id: KR3e0007_CHANT_002-17a.6}
+  - {type: punctuation, offset: 995, content: ，, id: KR3e0007_CHANT_002-bkkpn246}
+  - {type: 'tls:seg', offset: 995, content: '', id: KR3e0007_CHANT_002-17a.7}
+  - {type: punctuation, offset: 1001, content: ，, id: KR3e0007_CHANT_002-bkkpn247}
+  - {type: 'tls:seg', offset: 1001, content: '', id: KR3e0007_CHANT_002-17a.8}
+  - {type: variant, offset: 1002, length: 35, content: 蘆右剉麻豆大每抄五錢七生姜四片大棗一枚水盞半煎八分去滓溫服良久再服喘者, SBCK: 石膏}
+  - {type: variant, offset: 1002, length: 35, content: 蘆右剉麻豆大每抄五錢七生姜四片大棗一枚水盞半煎八分去滓溫服良久再服喘者, krp: 石膏}
+  - {type: punctuation, offset: 1003, content: 。, id: KR3e0007_CHANT_002-bkkpn248}
+  - {type: xml-element, offset: 1003, content: '', id: KR3e0007_CHANT_002-bkkxmlele56}
+  - {type: xml-element, offset: 1003, content: '', id: KR3e0007_CHANT_002-bkkxmlele57}
+  - {type: 'tls:seg', offset: 1003, content: '', id: KR3e0007_CHANT_002-18a.1}
+  - {type: 'tls:seg', offset: 1003, content: '', id: KR3e0007_CHANT_002-18a.2}
+  - {type: substitution, offset: 1004, original: 剉, replacement: 銼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2191}}
+  - {type: punctuation, offset: 1008, content: ，, id: KR3e0007_CHANT_002-bkkpn249}
+  - {type: 'tls:seg', offset: 1008, content: '', id: KR3e0007_CHANT_002-18a.3}
+  - {type: punctuation, offset: 1013, content: ，, id: KR3e0007_CHANT_002-bkkpn250}
+  - {type: 'tls:seg', offset: 1013, content: '', id: KR3e0007_CHANT_002-18a.4}
+  - {type: punctuation, offset: 1017, content: ，, id: KR3e0007_CHANT_002-bkkpn251}
+  - {type: 'tls:seg', offset: 1017, content: '', id: KR3e0007_CHANT_002-18a.5}
+  - {type: punctuation, offset: 1021, content: ，, id: KR3e0007_CHANT_002-bkkpn252}
+  - {type: 'tls:seg', offset: 1021, content: '', id: KR3e0007_CHANT_002-18a.6}
+  - {type: punctuation, offset: 1024, content: ，, id: KR3e0007_CHANT_002-bkkpn253}
+  - {type: 'tls:seg', offset: 1024, content: '', id: KR3e0007_CHANT_002-18a.7}
+  - {type: punctuation, offset: 1027, content: ，, id: KR3e0007_CHANT_002-bkkpn254}
+  - {type: 'tls:seg', offset: 1027, content: '', id: KR3e0007_CHANT_002-18a.8}
+  - {type: punctuation, offset: 1031, content: ，, id: KR3e0007_CHANT_002-bkkpn255}
+  - {type: 'tls:seg', offset: 1031, content: '', id: KR3e0007_CHANT_002-18a.9}
+  - {type: punctuation, offset: 1035, content: 。, id: KR3e0007_CHANT_002-bkkpn256}
+  - {type: 'tls:seg', offset: 1035, content: '', id: KR3e0007_CHANT_002-18a.10}
+  - {type: variant, offset: 1038, length: 95, content: 麻黃半兩胃中不和者加芍藥三分氣上衝者加桂枝三分下有陳寒者加細辛三分服後當如虫行皮中從腰下如冰後坐被上又以一被繞腰以下溫令微汗差傷寒八九日風濕相搏身體疼痛不能自轉側不嘔不渴脈浮虛而濇者桂枝附子, SBCK: 茯苓芒硝}
+  - {type: variant, offset: 1038, length: 95, content: 麻黃半兩胃中不和者加芍藥三分氣上衝者加桂枝三分下有陳寒者加細辛三分服後當如虫行皮中從腰下如冰後坐被上又以一被繞腰以下溫令微汗差傷寒八九日風濕相搏身體疼痛不能自轉側不嘔不渴脈浮虛而濇者桂枝附子, krp: 茯苓芒硝}
+  - {type: punctuation, offset: 1042, content: ，, id: KR3e0007_CHANT_002-bkkpn257}
+  - {type: 'tls:seg', offset: 1042, content: '', id: KR3e0007_CHANT_002-18a.11}
+  - {type: punctuation, offset: 1052, content: ，, id: KR3e0007_CHANT_002-bkkpn258}
+  - {type: 'tls:seg', offset: 1052, content: '', id: KR3e0007_CHANT_002-18a.12}
+  - {type: punctuation, offset: 1061, content: ，, id: KR3e0007_CHANT_002-bkkpn259}
+  - {type: 'tls:seg', offset: 1061, content: '', id: KR3e0007_CHANT_002-18a.13}
+  - {type: punctuation, offset: 1071, content: 。, id: KR3e0007_CHANT_002-bkkpn260}
+  - {type: 'tls:seg', offset: 1071, content: '', id: KR3e0007_CHANT_002-18a.14}
+  - {type: substitution, offset: 1075, original: 虫, replacement: 蟲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0171}}
+  - {type: punctuation, offset: 1079, content: ，, id: KR3e0007_CHANT_002-bkkpn261}
+  - {type: 'tls:seg', offset: 1079, content: '', id: KR3e0007_CHANT_002-18a.15}
+  - {type: punctuation, offset: 1084, content: ，, id: KR3e0007_CHANT_002-bkkpn262}
+  - {type: 'tls:seg', offset: 1084, content: '', id: KR3e0007_CHANT_002-18a.16}
+  - {type: punctuation, offset: 1088, content: ，, id: KR3e0007_CHANT_002-bkkpn263}
+  - {type: 'tls:seg', offset: 1088, content: '', id: KR3e0007_CHANT_002-18a.17}
+  - {type: punctuation, offset: 1096, content: ，, id: KR3e0007_CHANT_002-bkkpn264}
+  - {type: 'tls:seg', offset: 1096, content: '', id: KR3e0007_CHANT_002-18a.18}
+  - {type: punctuation, offset: 1100, content: ，, id: KR3e0007_CHANT_002-bkkpn265}
+  - {type: 'tls:seg', offset: 1100, content: '', id: KR3e0007_CHANT_002-18a.19}
+  - {type: punctuation, offset: 1101, content: 。, id: KR3e0007_CHANT_002-bkkpn266}
+  - {type: xml-element, offset: 1101, content: '', id: KR3e0007_CHANT_002-bkkxmlele58}
+  - {type: xml-element, offset: 1101, content: '', id: KR3e0007_CHANT_002-bkkxmlele59}
+  - {type: 'tls:seg', offset: 1101, content: '', id: KR3e0007_CHANT_002-19a.1}
+  - {type: 'tls:seg', offset: 1101, content: '', id: KR3e0007_CHANT_002-19a.2}
+  - {type: punctuation, offset: 1106, content: ，, id: KR3e0007_CHANT_002-bkkpn267}
+  - {type: 'tls:seg', offset: 1106, content: '', id: KR3e0007_CHANT_002-19a.3}
+  - {type: punctuation, offset: 1110, content: ，, id: KR3e0007_CHANT_002-bkkpn268}
+  - {type: 'tls:seg', offset: 1110, content: '', id: KR3e0007_CHANT_002-19a.4}
+  - {type: punctuation, offset: 1114, content: ，, id: KR3e0007_CHANT_002-bkkpn269}
+  - {type: 'tls:seg', offset: 1114, content: '', id: KR3e0007_CHANT_002-19a.5}
+  - {type: punctuation, offset: 1119, content: ，, id: KR3e0007_CHANT_002-bkkpn270}
+  - {type: 'tls:seg', offset: 1119, content: '', id: KR3e0007_CHANT_002-19a.6}
+  - {type: punctuation, offset: 1123, content: ，, id: KR3e0007_CHANT_002-bkkpn271}
+  - {type: 'tls:seg', offset: 1123, content: '', id: KR3e0007_CHANT_002-19a.7}
+  - {type: substitution, offset: 1127, original: 濇, replacement: 澀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1005}}
+  - {type: punctuation, offset: 1129, content: ，, id: KR3e0007_CHANT_002-bkkpn272}
+  - {type: 'tls:seg', offset: 1129, content: '', id: KR3e0007_CHANT_002-19a.8}
+  - {type: punctuation, offset: 1136, content: 。, id: KR3e0007_CHANT_002-bkkpn273}
+  - {type: 'tls:seg', offset: 1136, content: '', id: KR3e0007_CHANT_002-19a.9}
+  - {type: variant, offset: 1136, length: 21, content: 若大便堅小便自利者去桂加白朮湯主之桂枝附子, SBCK: 术防巳}
+  - {type: variant, offset: 1136, length: 21, content: 若大便堅小便自利者去桂加白朮湯主之桂枝附子, krp: 术防巳}
+  - {type: punctuation, offset: 1140, content: ，, id: KR3e0007_CHANT_002-bkkpn274}
+  - {type: 'tls:seg', offset: 1140, content: '', id: KR3e0007_CHANT_002-19a.10}
+  - {type: punctuation, offset: 1145, content: ，, id: KR3e0007_CHANT_002-bkkpn275}
+  - {type: 'tls:seg', offset: 1145, content: '', id: KR3e0007_CHANT_002-19a.11}
+  - {type: punctuation, offset: 1153, content: 。, id: KR3e0007_CHANT_002-bkkpn276}
+  - {type: xml-element, offset: 1153, content: '', id: KR3e0007_CHANT_002-bkkxmlele60}
+  - {type: xml-element, offset: 1153, content: '', id: KR3e0007_CHANT_002-bkkxmlele61}
+  - {type: 'tls:seg', offset: 1153, content: '', id: KR3e0007_CHANT_002-20a.1}
+  - {type: 'tls:seg', offset: 1153, content: '', id: KR3e0007_CHANT_002-20a.2}
+  - {type: punctuation, offset: 1159, content: ：, id: KR3e0007_CHANT_002-bkkpn277}
+  - {type: xml-element, offset: 1159, content: '', id: KR3e0007_CHANT_002-bkkxmlele62}
+  - {type: xml-element, offset: 1159, content: '', id: KR3e0007_CHANT_002-bkkxmlele63}
+  - {type: 'tls:seg', offset: 1159, content: '', id: KR3e0007_CHANT_002-20a.3}
+  - {type: variant, offset: 1159, length: 8, content: 桂枝四兩去皮生姜, SBCK: 术防巳}
+  - {type: variant, offset: 1159, length: 8, content: 桂枝四兩去皮生姜, krp: 术防巳}
+  - {type: punctuation, offset: 1163, content: ，, id: KR3e0007_CHANT_002-bkkpn278}
+  - {type: 'tls:seg', offset: 1163, content: '', id: KR3e0007_CHANT_002-20a.4}
+  - {type: punctuation, offset: 1165, content: ；, id: KR3e0007_CHANT_002-bkkpn279}
+  - {type: 'tls:seg', offset: 1165, content: '', id: KR3e0007_CHANT_002-20a.5}
+  - {type: variant, offset: 1168, length: 19, content: 兩切附子三枚炮去皮破八片甘草二兩炙大棗, SBCK: 两石膏}
+  - {type: variant, offset: 1168, length: 19, content: 兩切附子三枚炮去皮破八片甘草二兩炙大棗, krp: 两石膏}
+  - {type: punctuation, offset: 1169, content: ，, id: KR3e0007_CHANT_002-bkkpn280}
+  - {type: 'tls:seg', offset: 1169, content: '', id: KR3e0007_CHANT_002-20a.6}
+  - {type: punctuation, offset: 1170, content: ；, id: KR3e0007_CHANT_002-bkkpn281}
+  - {type: 'tls:seg', offset: 1170, content: '', id: KR3e0007_CHANT_002-20a.7}
+  - {type: punctuation, offset: 1174, content: ，, id: KR3e0007_CHANT_002-bkkpn282}
+  - {type: 'tls:seg', offset: 1174, content: '', id: KR3e0007_CHANT_002-20a.8}
+  - {type: punctuation, offset: 1175, content: ，, id: KR3e0007_CHANT_002-bkkpn283}
+  - {type: 'tls:seg', offset: 1175, content: '', id: KR3e0007_CHANT_002-20a.9}
+  - {type: punctuation, offset: 1177, content: ，, id: KR3e0007_CHANT_002-bkkpn284}
+  - {type: 'tls:seg', offset: 1177, content: '', id: KR3e0007_CHANT_002-20a.10}
+  - {type: punctuation, offset: 1180, content: ；, id: KR3e0007_CHANT_002-bkkpn285}
+  - {type: 'tls:seg', offset: 1180, content: '', id: KR3e0007_CHANT_002-20a.11}
+  - {type: punctuation, offset: 1184, content: ，, id: KR3e0007_CHANT_002-bkkpn286}
+  - {type: 'tls:seg', offset: 1184, content: '', id: KR3e0007_CHANT_002-20a.12}
+  - {type: punctuation, offset: 1185, content: ；, id: KR3e0007_CHANT_002-bkkpn287}
+  - {type: 'tls:seg', offset: 1185, content: '', id: KR3e0007_CHANT_002-20a.13}
+  - {type: punctuation, offset: 1190, content: ，, id: KR3e0007_CHANT_002-bkkpn288}
+  - {type: 'tls:seg', offset: 1190, content: '', id: KR3e0007_CHANT_002-20a.14}
+  - {type: variant, offset: 1190, length: 1, content: 擘, SBCK: 鷄子大桂枝二两人參四两右四味以水六升煮取二升分温􅄪服术防巳加茯苓芒硝湯方术防巳桂枝各二两人參芒硝三合茯苓各四两}
+  - {type: page-break, offset: 1190, content: '', id: KR3e0007_SBCK_002-7a}
+  - {type: variant, offset: 1190, length: 1, content: 擘, krp: 鷄子大桂枝二两人參四两右四味以水六升煮取二升分温再服术防巳加茯苓芒硝湯方术防巳桂枝各二两人參芒硝三合茯苓各四两}
+  - {type: punctuation, offset: 1191, content: 。, id: KR3e0007_CHANT_002-bkkpn289}
+  - {type: xml-element, offset: 1191, content: '', id: KR3e0007_CHANT_002-bkkxmlele64}
+  - {type: xml-element, offset: 1191, content: '', id: KR3e0007_CHANT_002-bkkxmlele65}
+  - {type: 'tls:seg', offset: 1191, content: '', id: KR3e0007_CHANT_002-21a.1}
+  - {type: 'tls:seg', offset: 1191, content: '', id: KR3e0007_CHANT_002-21a.2}
+  - {type: punctuation, offset: 1194, content: ，, id: KR3e0007_CHANT_002-bkkpn290}
+  - {type: 'tls:seg', offset: 1194, content: '', id: KR3e0007_CHANT_002-21a.3}
+  - {type: punctuation, offset: 1198, content: ，, id: KR3e0007_CHANT_002-bkkpn291}
+  - {type: 'tls:seg', offset: 1198, content: '', id: KR3e0007_CHANT_002-21a.4}
+  - {type: punctuation, offset: 1202, content: ，, id: KR3e0007_CHANT_002-bkkpn292}
+  - {type: 'tls:seg', offset: 1202, content: '', id: KR3e0007_CHANT_002-21a.5}
+  - {type: punctuation, offset: 1204, content: ，, id: KR3e0007_CHANT_002-bkkpn293}
+  - {type: 'tls:seg', offset: 1204, content: '', id: KR3e0007_CHANT_002-21a.6}
+  - {type: variant, offset: 1204, length: 0, content: '', SBCK: 内芒硝􅂯㣲前}
+  - {type: variant, offset: 1204, length: 0, content: '', krp: 内芒硝再㣲前}
+  - {type: variant, offset: 1205, length: 1, content: 溫, SBCK: 温􅂯服㣲利則愈心下有支飲其人􅀂冐眩澤瀉湯主之澤瀉湯方澤瀉五两白术二两右二味以水二升煮取一升分温􅂯服支飲胸滿者厚朴大黄湯主之厚朴大黄湯方厚朴一尺大黄六两枳實四两右三味以水五升煮取二升分温􅂯服支飲不得息葶藶大􅀥㵼肺湯主之方見肺癰中嘔家本渴渴者爲􅁒解今反不渴心下有支飲故也小半夏湯主之千金云小半夏湯加茯苓小半夏湯方半夏一升生姜半斤右二味以水七升煮取一升半分温􅂯服腹滿口舌乾燥此腸間有水氣巳椒藶黄丸主之防椒葶黄丸方防巳椒目葶藶熬大黃各一两右四味末之􅁡丸如梧子大先食飲服一丸日}
+  - {type: page-break, offset: 1205, content: '', id: KR3e0007_SBCK_002-7b}
+  - {type: page-break, offset: 1205, content: '', id: KR3e0007_SBCK_002-8a}
+  - {type: variant, offset: 1205, length: 1, content: 溫, krp: 温再服㣲利則愈心下有支飲其人若冐眩澤瀉湯主之澤瀉湯方澤瀉五两白术二两右二味以水二升煮取一升分温再服支飲胸滿者厚朴大黄湯主之厚朴大黄湯方厚朴一尺大黄六两枳實四两右三味以水五升煮取二升分温再服支飲不得息葶藶大棗㵼肺湯主之方見肺癰中嘔家本渴渴者爲𣣔解今反不渴心下有支飲故也小半夏湯主之千金云小半夏湯加茯苓小半夏湯方半夏一升生姜半斤右二味以水七升煮取一升半分温再服腹滿口舌乾燥此腸間有水氣巳椒藶黄丸主之防椒葶黄丸方防巳椒目葶藶熬大黃各一两右四味末之蜜丸如梧子大先食飲服一丸日}
+  - {type: punctuation, offset: 1208, content: 。, id: KR3e0007_CHANT_002-bkkpn294}
+  - {type: xml-element, offset: 1208, content: '', id: KR3e0007_CHANT_002-bkkxmlele66}
+  - {type: xml-element, offset: 1208, content: '', id: KR3e0007_CHANT_002-bkkxmlele67}
+  - {type: 'tls:seg', offset: 1208, content: '', id: KR3e0007_CHANT_002-21a.7}
+  - {type: variant, offset: 1208, length: 0, content: '', SBCK: 稍増口中有津液渴者加芒硝半两卒嘔􅄍心下痞膈間有水眩悸者半夏加茯苓湯主之小半夏加茯苓湯方半夏一升生姜半斤茯苓三两一法四两右三味水七升煮取一升五合分温􅂯服假令痩人臍下有悸􅄍涎沬而此水也五苓散主之五苓散方澤瀉一两一分猪苓三分去皮茯苓三分}
+  - {type: page-break, offset: 1208, content: '', id: KR3e0007_SBCK_002-8b}
+  - {type: variant, offset: 1208, length: 0, content: '', krp: 稍増口中有津液渴者加芒硝半两卒嘔吐心下痞膈間有水眩悸者半夏加茯苓湯主之小半夏加茯苓湯方半夏一升生姜半斤茯苓三两一法四两右三味水七升煮取一升五合分温再服假令痩人臍下有悸吐涎沬而此水也五苓散主之五苓散方澤瀉一两一分猪苓三分去皮茯苓三分}
+  - {type: variant, offset: 1209, length: 1, content: 朮, SBCK: 术三分桂二分去皮右五味爲末白飲服方寸匕日三服多飲暖水汗出愈附方外䑓茯苓飮治心胸中有停痰􅀫水自􅄍出水後心胸間虚氣滿不能食消痰氣令能食茯苓人參白术各三两枳實二两橘皮二两半生姜四两右六味水六升煮取一升八合分温三服如人行八九里進之欬家其脉弦爲有水十􅀥湯主之方見上夫有支飲家欬煩胸中痛者不卒死至一百日一歳冝十􅀥湯方見上人欬數歳其脉弱者可治實大數者死其脉虚者必􅀂冐其人本有支飲在胸中故也治屬飲家欬逆􅀝息不得卧小青龍湯主之方見上文肺癰中青龍湯下巳多唾口燥寸脉沉尺脉㣲手足厥逆氣從小腹上衝胸咽手足痺其面翕然􅀬如醉狀因復下流隂股小便難時復冐者與茯苓桂枝五味甘草湯治其氣衝桂苓五味甘草湯方茯苓四两桂枝四两去皮甘草炙三两五味子半升右四味以水八升煮取三升去滓分三温服衝氣即低而反更欬胸滿者用桂苓五味甘草湯去桂加生姜細辛以治其欬滿苓甘五味姜辛湯方茯苓四两甘草乾姜細辛各三两五味半升右五味以水八升煮取三升去滓温服半升日三服欬滿即止而更復渴衝氣復發者以細辛乾姜爲􅀬藥也服之當遂滿而渴反止者為支飲也支飲者法當冐冐者必嘔嘔者復内半夏以去其水桂苓味甘去桂四姜辛夏湯方茯苓四两甘草細辛乾姜各二两五味半夏各半升右六味以水八升煮取三升去滓温服半升日三服水去嘔止其人形腫者加杏仁主之其證應内麻黄以其人遂痺故不内之􅀂逆而内之者必厥所以然者以其人血虚麻黃發其陽故也苓芍姜味辛夏仁湯茯苓四两甘草三两五味半升乾姜三两細辛三两半夏半升杏仁半升去皮尖右七味以水一斗煮取三升去滓温服半升日三服􅀂面􅀬如醉此爲冐􅀬上衝熏其面加大黄以利之茯甘姜味辛夏仁黄湯茯苓四两甘草三两五味半升乾姜三两細辛三两半夏半升杏仁半升大黃三两右八味以水一斗煮取三升去滓温服半升日三服先渴後嘔爲水停心下此属飲家小半夏茯苓湯主之方見上消渴小便利淋病脉證并治第十三脉證九條方六首厥隂之爲病消渴􅂔上衝心心中疼􅀬􅀬而不欲食食即吐下之不肯止寸口脉浮而運浮即爲虚運即爲勞虚則衞􅂔不足勞則榮氣竭跌陽脉浮而數浮即爲􅂔數即消榖而大堅乙作􅂃􅂔盛則溲數數數即堅堅數相摶即為消渇男子消渇小便反多以飲一斗小便一斗腎􅂔丸主之方見脚氣中脉浮小便不利㣲􅀬消渇者宜利小便發汗五苓散主之渴􅁒飲水水入則􅄍者名曰水逆五苓散主之渴􅁒飲水不止者文蛤散主之文蛤散方文蛤四两右一味杵爲散以沸湯五合和服方寸匕淋之爲病小便如粟狀小腹弦急痛引臍中趺陽脉數胃中有􅀬即滿榖引食大便必堅小便即數淋家不可發汗發汗則必便血小便不利者有水氣其人􅀂渴用後丸主之括蔞瞿麥丸括蔞根二两茯苓薯蕷各三两附子一枚炮瞿麥一两右五味末之煉􅁡丸梧子大飲服三丸日三服不知増至七八丸以小便利腹中温為知小便不利蒲􅁅散主之滑石白魚散茯苓戎鹽湯並主之蒲􅁅散方蒲􅁅七分滑石二分右二味杵爲散飲服方寸匕日三服滑石白魚散滑石二分亂髮二分燒白魚二分右三味杵為散飲服半錢􅍰日三服茯苓戎鹽湯方茯苓半斤白术二两戎鹽弹丸大一枚右三味渴􅁒飲水口乾􅀂燥者白虎加人參湯主之方見中􅠽中脉浮發􅀬渴􅁒飲水小便不利者猪苓湯主之猪苓湯方猪苓去皮茯苓阿膠滑石澤瀉各一两右五味以水四升先煮四味取二升去滓内膠洋消温服七合日三服水氣病脉證幷治第十四論七首脉證五條方十首師曰病有風水有皮水有正水有石水有黃汗風水其脉自浮外證骨節疼痛惡風皮水其脉亦浮外證腑腫按之没指不惡風其腹如皷不渴當發其汗正水其脉沉遲外證自喘石水其脉自沉外證腹滿不喘黃汗其脉沉遲身發􅀬胸滿四肢頭面腫攵不愈必致癰膿脉浮而洪浮則爲風洪則為氣風氣相摶風强則為􅀮疹身體為痒痒為泄風久為痂癩氣强則為水難以俛仰風氣相擊身體洪腫汗出則愈惡風則虚此為風水不惡風者小便通利上焦有寒其口多涎此為黄汗寸口脉沉滑者中有水氣面目腫大有􅀬名曰風水視人之目褁上㣲擁如蚕新卧起状其頸脉動時時欬按其手足上䧟而不起者風水太陽病脉浮而􅂃法當骨節疼痛及不疼身體反重而酸其人不渴汗出即愈此爲風水惡寒者此爲極虚發汗得之渴而不惡寒者此爲皮水身腫而冷状如周痺胸中窒不能食反聚痛暮躁不得眠此為黃汗痛在骨節欬而喘不渴者此為脾脹其状如腫發汗即愈然諸病此者渴而下利小便數者皆不可發汗裏水者一身面目黃腫其脉沉小便不利故令病水假如小便自利此亡津液故令渴也越婢加术湯主之方見下趺陽脉當伏今反􅂃本自有寒疝瘕腹中痛醫反下之下之即胸滿短氣趺陽脉當伏今反數本自有􅀬消􅂖小便數今反不利此􅁒作水寸口脉浮而遲浮脉則􅀬遲脉則潜􅀬潜相摶名曰沈趺陽脉浮而數浮脉即􅀬數脉即止􅀬止相摶名曰伏沈伏相摶名曰水沈則絡脉虚伏則小便難虚難相摶水走皮膚即爲水矣寸口脉弦而􅂃弦則衛氣不行即惡寒水不沾流走於腸間少隂脉􅂃而沉􅂃則爲痛沉則為水小便即難脉得諸沉當責有水身體腫重水病脉出者死夫水病人目下有卧蚕面目鮮澤脉伏其人消渴病水腹水小便不利其脉沉絶者有水可下之問曰病下利後渴飲小便不利腹滿因腫者何也荅曰此法當病水􅀂小便自利及汗出者自當愈心水者其身重而少氣不得卧煩而燥其人隂腫肝水者其腹大不能自轉則脇下腹痛時時津液㣲生小便續通脉水者其身腫小便難時下鴨溏脾水者其腹大四肢苦重津液不生但􅀂少氣小便難腎水者其腹大臍腫腰痛不得溺隂下濕如牛鼻上汗其足逆冷面反瘦師曰諸有水者腰以下腫當利小便腰以上腫當發汗乃愈師曰寸口脉沉而遲沉則為水遲則為寒寒水相摶趺陽脉伏水榖不化脾氣衰則䳱溏胃氣衰則身腫少陽脉卑少隂脉細男子則小便不利婦人則經水不通經為血血不利則為水名曰血分問曰病者苦水面目身體四肢皆腫小便不利脉之不言水反言胸中痛氣上衝咽状如炙肉當㣲欬喘審如師言其脉何􅀋師曰寸口脉沉而􅂃沉為水􅂃為寒沉􅂃相摶結在􅀜元始時當㣲年盛不􅁴陽衰之後荣衛相干陽損隂盛結寒㣲動腎氣上衝喉咽塞噎脇下急痛醫以為留飲而大下之氣撃不去其病不除後重􅄍之胃家虚煩咽燥􅁒飲水小便不利水􅂖不化面目手足浮腫又與葶藶丸下水當時如小差食飲過度腫復如前胸脇苦痛象苦奔㹠其水􅀭溢則浮咳喘逆當先攻撃衞氣令止乃治欬欬止其喘自差先治新病病當在後風水脉浮身重汗出惡風者防已黃􅂄湯主之腹痛加芍藥防已黄􅂄湯方防巳一两黄􅂄一两一分白术三分甘草半两炙右剉每服五錢匕生姜四片􅀥一枚水盞半煎取八分去滓温服良乆􅂯服風水急風一身悉腫脉浮不渴續自汗出無大􅀬越婢湯主之越婢湯方麻黄六两石膏半斤生姜三两大􅀥十五枚甘草二两右五味以水六升先煮麻黄去上沫内諸藥煮取三升分温三服惡風者加附子一枚炮風水加术四兩古今錄驗皮水為病四肢腫水氣在皮膚中四肢聶聶動者防已茯苓湯主之防巳茯苓湯防已三两黄􅂄三两桂枝三两茯苓六两甘草二两右五味以水六升煮取二升分温三服裏水越婢加术湯主之甘草麻黄湯亦主之越婢加术湯見上於内加白术四两又見脚氣中甘草麻黄湯甘草二两麻黄四两右二味以水五升先煮麻黄去上沫内甘草煮取三升温服一升重覆汗出不汗􅂯服慎風寒水之為病其脉沈小属小隂浮者為風無水虚脹者為氣水其汗即已脉沈者冝麻黄附子湯浮者冝杏子湯麻黄}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-9a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-9b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-10a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-10b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-11a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-11b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-12a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-12b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-13a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-13b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-14a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-14b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-15a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-15b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-16a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-16b}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-17a}
+  - {type: page-break, offset: 1209, content: '', id: KR3e0007_SBCK_002-17b}
+  - {type: variant, offset: 1209, length: 1, content: 朮, krp: 术三分桂二分去皮右五味爲末白飲服方寸匕日三服多飲暖水汗出愈附方外䑓茯苓飮治心胸中有停痰宿水自吐出水後心胸間虚氣滿不能食消痰氣令能食茯苓人參白术各三两枳實二两橘皮二两半生姜四两右六味水六升煮取一升八合分温三服如人行八九里進之欬家其脉弦爲有水十棗湯主之方見上夫有支飲家欬煩胸中痛者不卒死至一百日一歳冝十棗湯方見上人欬數歳其脉弱者可治實大數者死其脉虚者必若冐其人本有支飲在胸中故也治屬飲家欬逆倚息不得卧小青龍湯主之方見上文肺癰中青龍湯下巳多唾口燥寸脉沉尺脉㣲手足厥逆氣從小腹上衝胸咽手足痺其面翕然熱如醉狀因復下流隂股小便難時復冐者與茯苓桂枝五味甘草湯治其氣衝桂苓五味甘草湯方茯苓四两桂枝四两去皮甘草炙三两五味子半升右四味以水八升煮取三升去滓分三温服衝氣即低而反更欬胸滿者用桂苓五味甘草湯去桂加生姜細辛以治其欬滿苓甘五味姜辛湯方茯苓四两甘草乾姜細辛各三两五味半升右五味以水八升煮取三升去滓温服半升日三服欬滿即止而更復渴衝氣復發者以細辛乾姜爲熱藥也服之當遂滿而渴反止者為支飲也支飲者法當冐冐者必嘔嘔者復内半夏以去其水桂苓味甘去桂四姜辛夏湯方茯苓四两甘草細辛乾姜各二两五味半夏各半升右六味以水八升煮取三升去滓温服半升日三服水去嘔止其人形腫者加杏仁主之其證應内麻黄以其人遂痺故不内之若逆而内之者必厥所以然者以其人血虚麻黃發其陽故也苓芍姜味辛夏仁湯茯苓四两甘草三两五味半升乾姜三两細辛三两半夏半升杏仁半升去皮尖右七味以水一斗煮取三升去滓温服半升日三服若面熱如醉此爲冐熱上衝熏其面加大黄以利之茯甘姜味辛夏仁黄湯茯苓四两甘草三两五味半升乾姜三两細辛三两半夏半升杏仁半升大黃三两右八味以水一斗煮取三升去滓温服半升日三服先渴後嘔爲水停心下此属飲家小半夏茯苓湯主之方見上消渴小便利淋病脉證并治第十三脉證九條方六首厥隂之爲病消渴氣上衝心心中疼熱熱而不欲食食即吐下之不肯止寸口脉浮而運浮即爲虚運即爲勞虚則衞氣不足勞則榮氣竭跌陽脉浮而數浮即爲氣數即消榖而大堅乙作緊氣盛則溲數數數即堅堅數相摶即為消渇男子消渇小便反多以飲一斗小便一斗腎氣丸主之方見脚氣中脉浮小便不利㣲熱消渇者宜利小便發汗五苓散主之渴𣣔飲水水入則吐者名曰水逆五苓散主之渴𣣔飲水不止者文蛤散主之文蛤散方文蛤四两右一味杵爲散以沸湯五合和服方寸匕淋之爲病小便如粟狀小腹弦急痛引臍中趺陽脉數胃中有熱即滿榖引食大便必堅小便即數淋家不可發汗發汗則必便血小便不利者有水氣其人若渴用後丸主之括蔞瞿麥丸括蔞根二两茯苓薯蕷各三两附子一枚炮瞿麥一两右五味末之煉蜜丸梧子大飲服三丸日三服不知増至七八丸以小便利腹中温為知小便不利蒲灰散主之滑石白魚散茯苓戎鹽湯並主之蒲灰散方蒲灰七分滑石二分右二味杵爲散飲服方寸匕日三服滑石白魚散滑石二分亂髮二分燒白魚二分右三味杵為散飲服半錢匙日三服茯苓戎鹽湯方茯苓半斤白术二两戎鹽弹丸大一枚右三味渴𣣔飲水口乾若燥者白虎加人參湯主之方見中􅠽中脉浮發熱渴𣣔飲水小便不利者猪苓湯主之猪苓湯方猪苓去皮茯苓阿膠滑石澤瀉各一两右五味以水四升先煮四味取二升去滓内膠洋消温服七合日三服水氣病脉證幷治第十四論七首脉證五條方十首師曰病有風水有皮水有正水有石水有黃汗風水其脉自浮外證骨節疼痛惡風皮水其脉亦浮外證腑腫按之没指不惡風其腹如皷不渴當發其汗正水其脉沉遲外證自喘石水其脉自沉外證腹滿不喘黃汗其脉沉遲身發熱胸滿四肢頭面腫攵不愈必致癰膿脉浮而洪浮則爲風洪則為氣風氣相摶風强則為隱疹身體為痒痒為泄風久為痂癩氣强則為水難以俛仰風氣相擊身體洪腫汗出則愈惡風則虚此為風水不惡風者小便通利上焦有寒其口多涎此為黄汗寸口脉沉滑者中有水氣面目腫大有熱名曰風水視人之目褁上㣲擁如蚕新卧起状其頸脉動時時欬按其手足上䧟而不起者風水太陽病脉浮而緊法當骨節疼痛及不疼身體反重而酸其人不渴汗出即愈此爲風水惡寒者此爲極虚發汗得之渴而不惡寒者此爲皮水身腫而冷状如周痺胸中窒不能食反聚痛暮躁不得眠此為黃汗痛在骨節欬而喘不渴者此為脾脹其状如腫發汗即愈然諸病此者渴而下利小便數者皆不可發汗裏水者一身面目黃腫其脉沉小便不利故令病水假如小便自利此亡津液故令渴也越婢加术湯主之方見下趺陽脉當伏今反緊本自有寒疝瘕腹中痛醫反下之下之即胸滿短氣趺陽脉當伏今反數本自有熱消糓小便數今反不利此𣣔作水寸口脉浮而遲浮脉則熱遲脉則潜熱潜相摶名曰沈趺陽脉浮而數浮脉即熱數脉即止熱止相摶名曰伏沈伏相摶名曰水沈則絡脉虚伏則小便難虚難相摶水走皮膚即爲水矣寸口脉弦而緊弦則衛氣不行即惡寒水不沾流走於腸間少隂脉緊而沉緊則爲痛沉則為水小便即難脉得諸沉當責有水身體腫重水病脉出者死夫水病人目下有卧蚕面目鮮澤脉伏其人消渴病水腹水小便不利其脉沉絶者有水可下之問曰病下利後渴飲小便不利腹滿因腫者何也荅曰此法當病水若小便自利及汗出者自當愈心水者其身重而少氣不得卧煩而燥其人隂腫肝水者其腹大不能自轉則脇下腹痛時時津液㣲生小便續通脉水者其身腫小便難時下鴨溏脾水者其腹大四肢苦重津液不生但若少氣小便難腎水者其腹大臍腫腰痛不得溺隂下濕如牛鼻上汗其足逆冷面反瘦師曰諸有水者腰以下腫當利小便腰以上腫當發汗乃愈師曰寸口脉沉而遲沉則為水遲則為寒寒水相摶趺陽脉伏水榖不化脾氣衰則䳱溏胃氣衰則身腫少陽脉卑少隂脉細男子則小便不利婦人則經水不通經為血血不利則為水名曰血分問曰病者苦水面目身體四肢皆腫小便不利脉之不言水反言胸中痛氣上衝咽状如炙肉當㣲欬喘審如師言其脉何類師曰寸口脉沉而緊沉為水緊為寒沉緊相摶結在關元始時當㣲年盛不覺陽衰之後荣衛相干陽損隂盛結寒㣲動腎氣上衝喉咽塞噎脇下急痛醫以為留飲而大下之氣撃不去其病不除後重吐之胃家虚煩咽燥𣣔飲水小便不利水糓不化面目手足浮腫又與葶藶丸下水當時如小差食飲過度腫復如前胸脇苦痛象苦奔㹠其水揚溢則浮咳喘逆當先攻撃衞氣令止乃治欬欬止其喘自差先治新病病當在後風水脉浮身重汗出惡風者防已黃耆湯主之腹痛加芍藥防已黄耆湯方防巳一两黄耆一两一分白术三分甘草半两炙右剉每服五錢匕生姜四片棗一枚水盞半煎取八分去滓温服良乆再服風水急風一身悉腫脉浮不渴續自汗出無大熱越婢湯主之越婢湯方麻黄六两石膏半斤生姜三两大棗十五枚甘草二两右五味以水六升先煮麻黄去上沫内諸藥煮取三升分温三服惡風者加附子一枚炮風水加术四兩古今錄驗皮水為病四肢腫水氣在皮膚中四肢聶聶動者防已茯苓湯主之防巳茯苓湯防已三两黄耆三两桂枝三两茯苓六两甘草二两右五味以水六升煮取二升分温三服裏水越婢加术湯主之甘草麻黄湯亦主之越婢加术湯見上於内加白术四两又見脚氣中甘草麻黄湯甘草二两麻黄四两右二味以水五升先煮麻黄去上沫内甘草煮取三升温服一升重覆汗出不汗再服慎風寒水之為病其脉沈小属小隂浮者為風無水虚脹者為氣水其汗即已脉沈者冝麻黄附子湯浮者冝杏子湯麻黄}
+  - {type: punctuation, offset: 1214, content: ：, id: KR3e0007_CHANT_002-bkkpn295}
+  - {type: xml-element, offset: 1214, content: '', id: KR3e0007_CHANT_002-bkkxmlele68}
+  - {type: xml-element, offset: 1214, content: '', id: KR3e0007_CHANT_002-bkkxmlele69}
+  - {type: 'tls:seg', offset: 1214, content: '', id: KR3e0007_CHANT_002-21a.8}
+  - {type: variant, offset: 1214, length: 2, content: 白朮, SBCK: 麻黄三两甘草}
+  - {type: variant, offset: 1214, length: 2, content: 白朮, krp: 麻黄三两甘草}
+  - {type: variant, offset: 1217, length: 1, content: 兩, SBCK: 两}
+  - {type: variant, offset: 1217, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 1218, content: ，, id: KR3e0007_CHANT_002-bkkpn296}
+  - {type: 'tls:seg', offset: 1218, content: '', id: KR3e0007_CHANT_002-21a.9}
+  - {type: variant, offset: 1222, length: 0, content: '', SBCK: 炮右三味以水七升先煮麻黄去上沫内諸藥煮取二升}
+  - {type: page-break, offset: 1222, content: '', id: KR3e0007_SBCK_002-18a}
+  - {type: variant, offset: 1222, length: 0, content: '', krp: 炮右三味以水七升先煮麻黄去上沫内諸藥煮取二升}
+  - {type: punctuation, offset: 1223, content: ，, id: KR3e0007_CHANT_002-bkkpn297}
+  - {type: 'tls:seg', offset: 1223, content: '', id: KR3e0007_CHANT_002-21a.10}
+  - {type: variant, offset: 1223, length: 0, content: '', SBCK: 温服八分日三服杏子湯未見恐是麻黄杏仁甘草石膏湯厥而皮水者蒲􅁅散主之方見上問曰黃汗之為病身體腫一作重發􅀬汗出而渇状如風水汗沾衣色正黃如藥汁脉自沉何從得之師曰以汗出入水中浴水從汗孔入得之冝􅂄芍桂酒湯主之黄􅂄桂苦酒湯黄耆五两芍藥三两桂枝三两右三味以苦酒一升水七升相和煮取三升温服一升當心煩服至六七日乃解􅀂心煩不止者以苦酒阻故也一方用羙酒醃代苦酒黄汗之病两脛自冷假令發􅀬此属歷節食已汗出又身常暮盗汗出者此劳氣也􅀂汗出巳反發􅀬者久久其身必甲錯發􅀬不止者必生惡瘡􅀂身重汗出巳輙輕者久乆必身瞤即胸中痛又從腰以上必汗出不無汗腰髖弛痛如有物在皮中状劇者不能食身疼重煩燥小便不利為黃汗桂枝加黄􅂄湯主之桂枝加黄􅂄湯方桂枝芍藥各三两甘草二两生姜三两大􅀥十二枚黄􅂄二两右六味以水八升煑取三升温服一升湏􅁷飲􅀬稀粥一升餘以􅂇藥力温服取㣲汗􅀂不汗更服師曰寸口脉遲而濇遲則爲寒濇爲血不足趺陽脉㣲而遲㣲則爲氣遲則爲寒寒氣不足則手足逆冷手足逆冷則荣衞不利荣衞不利則腹滿脇鳴相逐氣轉膀胱荣衞俱劳陽不通即身冷氣不通即骨痛陽前通則惡寒隂前通則痺不仁隂陽相得其氣乃行大氣一轉其氣乃散實則失氣虚則遺尿名曰氣分氣分心下堅大如盤邉如旋杯水飲用後方主之桂姜草􅀥黃辛附湯方桂枝生姜三两甘草二两大􅀥十二枚麻黄細辛各二两附子一枚}
+  - {type: page-break, offset: 1223, content: '', id: KR3e0007_SBCK_002-18b}
+  - {type: page-break, offset: 1223, content: '', id: KR3e0007_SBCK_002-19a}
+  - {type: page-break, offset: 1223, content: '', id: KR3e0007_SBCK_002-19b}
+  - {type: variant, offset: 1223, length: 0, content: '', krp: 温服八分日三服杏子湯未見恐是麻黄杏仁甘草石膏湯厥而皮水者蒲灰散主之方見上問曰黃汗之為病身體腫一作重發熱汗出而渇状如風水汗沾衣色正黃如藥汁脉自沉何從得之師曰以汗出入水中浴水從汗孔入得之冝耆芍桂酒湯主之黄耆桂苦酒湯黄耆五两芍藥三两桂枝三两右三味以苦酒一升水七升相和煮取三升温服一升當心煩服至六七日乃解若心煩不止者以苦酒阻故也一方用羙酒醃代苦酒黄汗之病两脛自冷假令發熱此属歷節食已汗出又身常暮盗汗出者此劳氣也若汗出巳反發熱者久久其身必甲錯發熱不止者必生惡瘡若身重汗出巳輙輕者久乆必身瞤即胸中痛又從腰以上必汗出不無汗腰髖弛痛如有物在皮中状劇者不能食身疼重煩燥小便不利為黃汗桂枝加黄耆湯主之桂枝加黄耆湯方桂枝芍藥各三两甘草二两生姜三两大棗十二枚黄耆二两右六味以水八升煑取三升温服一升湏臾飲熱稀粥一升餘以助藥力温服取㣲汗若不汗更服師曰寸口脉遲而濇遲則爲寒濇爲血不足趺陽脉㣲而遲㣲則爲氣遲則爲寒寒氣不足則手足逆冷手足逆冷則荣衞不利荣衞不利則腹滿脇鳴相逐氣轉膀胱荣衞俱劳陽不通即身冷氣不通即骨痛陽前通則惡寒隂前通則痺不仁隂陽相得其氣乃行大氣一轉其氣乃散實則失氣虚則遺尿名曰氣分氣分心下堅大如盤邉如旋杯水飲用後方主之桂姜草棗黃辛附湯方桂枝生姜三两甘草二两大棗十二枚麻黄細辛各二两附子一枚}
+  - {type: punctuation, offset: 1224, content: ，, id: KR3e0007_CHANT_002-bkkpn298}
+  - {type: 'tls:seg', offset: 1224, content: '', id: KR3e0007_CHANT_002-21a.11}
+  - {type: variant, offset: 1224, length: 0, content: '', SBCK: 右七味以水七升煮麻黃去上沬内諸藥煮取二升分温三服當汗出如䖝行皮中即愈心下堅大如盤邉如旋盤水飲所作枳术湯主之枳术湯方枳實七枚白术二两右二味以水五升煮取三升分温三服腹中耎即當附方外䑓防巳黃耆湯治風水脉浮為在表其人或頭汗岀表無他病病者但下重從腰以上為和腰以下當腫及隂難以屈伸方見氣濕中黃疸病脉證幷治第十五論二首脉證十四條方七首寸口脉浮而緩浮則為風緩則為痺痺非中風四肢苦煩脾色必黃瘀􅀬以行趺陽脉堅而數數則為􅀬􅀬則消榖􅂃則為寒食即為滿尺脉浮爲傷腎趺陽脉􅂃為傷脾風寒相摶食榖即昡榖氣不消胃中苦渴渴氣下流不便不通隂􅀍其寒􅀬流膀胱身體盡黄名曰􅂖疸額上黒㣲汗岀手足中􅀬薄暮即發膀胱急小便自利名曰女劳疸腹如水状不治心中懊憹而􅀬不能食時􅁒􅄍名曰酒疸陽明病脉遲者食難用炮炮則發煩頭痃小便必難此􅁒作榖疸雖下之腹滿如故所以然者脉遲故也夫病酒黃疸必小便不利其候心中􅀬足下􅀬是其證也酒黄疸者或無􅀬請言了腹滿􅁒􅄍鼻燥其脉浮者先􅄍之沉弦者先下之酒疸心中􅀬􅁒嘔者􅄍之愈酒疸下之乆乆爲黒疸目青面黒心中如噉蒜韲状大便正黒皮膚􅀲之不仁其脉浮弱雖黒㣲黄故知之師曰病黄疸發􅀬煩喘胸滿口燥有以病發時火劫其汗两􅀬所得然黄家所得從濕得之一身盡發􅀬面黄肚􅀬􅀬在裏當下之脙沉渴􅁒飲水小便不利者皆發黃腹滿舌痿黄燥不得睡属黄家右痿疑作心痿黃疸之病當以十八日為期治之十日以上瘥反極為難治疸而渴者其疸難治疸而不渴者其疸可治發於隂部其人必嘔陽部其人振寒而發􅀬也榖疸之為病寒􅀬不食食即頭眩心胸不安攵久發黃為榖疸􅌲陳湯主之􅌲陳湯方􅌲陳蒿六两梔子十四枚大黃二两右三味以水一斗先煮茵陳減六升内三味煮取三升去滓分温三服小便當利尿如皂角汁状色正赤一􅀫腹減黃從小便去也黃家日晡時發􅀬面反惡寒此為女劳得之腣胱急少腹滿身盡黄額上黒足下􅀬因作黒疸其腹脹如水状大便必黒時溏此女劳之病非水也腹滿者難治用後方消礬散方消石礬石燒等分右二味為末以大麥粥汁和服方寸匕日三服病隨大小便去小便正黃大便正黒是􅀱也酒黄疸心中懊憹或􅀬痛梔子大黃湯主之梔子大黃湯方梔子十四枚大黃二两枳實五枚豉一升右四味以水六升煮取二升分温三服諸病黄家但利其小便假令脉浮當以汗解之冝桂枝加黃􅂄湯主之方見水病中諸黄用後方猪膏髪煎猪膏半斤亂髪如鷄子大三枚右二味和膏中煎之髪消藥成分􅂯服病從小便出黄疸病茵陳五苓散主之一本云茵陳湯及五苓散並主之茵陳五苓散茵陳稿末十分五苓散五分方見痰飲中右二物和先食飲方寸匕日三服黃疸腹滿小便不利而赤自汗出此爲表和裏實當下之冝大黄滑石湯大黄滑石湯大黄黃檗滑石各四两梔子十五枚右四味以水六升煑取二升去滓内滑石更煮取一升頓服黄疸病小便色不變􅁒自利腹滿而喘不可除􅀬􅀬除必噦噦者小半夏湯主之方見消􅠽中諸劳腹痛而嘔者冝柴胡湯必小柴胡湯方見嘔􅄍中男子黄小便自利當與虚劳小建中湯方見虚劳中附方􅋎蒂湯治諸黃方見暍病中千金麻黃醇酒湯治黄疸麻黃三两右一味以羙清酒五升煮取二升半頓服盡冬月用酒春月用水煮之驚悸􅄍衂下血胸滿瘀血病脉證治第十六脉證十二條方五首寸口脉動而弱動即為驚弱則為悸師曰夫脉浮目睛暈黃衂未止暈黃去目睛急了知衂今止又曰從春至夏衂者太陽從秋至冬衂者陽明衂家不可汗汗岀必額上䧟脉緊急直視不能眴不得眠病人面無色無寒􅀬脉沉弦者衂浮弱手按之絶者下血煩欬者必􅄍血夫􅄍血欬逆上氣其脉數而有􅀬不得卧者死夫酒客欬者必致􅄍血此因極飲過度所致也寸口脉弦而大弦則為减大則為芤减則為寒芤則為虚寒虚相擊此名曰革婦人則半産漏下男子則亡血亡血不可發其表汗出則寒慄而振病人胸滿唇痿舌青口燥但􅁒嗽水不􅁒嚥無寒􅀬脉㣲大来遲腹不滿其人言我滿為有瘀血病者如􅀬状煩滿口乾燥而渴其脉反無􅀬此為隂状是瘀血也當下之火邪者桂枝去芍藥加蜀􅃮牡蠣龍骨捄逆湯主之桂枝捄逆湯方桂枝二两}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-20a}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-20b}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-21a}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-21b}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-22a}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-22b}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-23a}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-23b}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-24a}
+  - {type: page-break, offset: 1224, content: '', id: KR3e0007_SBCK_002-24b}
+  - {type: variant, offset: 1224, length: 0, content: '', krp: 右七味以水七升煮麻黃去上沬内諸藥煮取二升分温三服當汗出如䖝行皮中即愈心下堅大如盤邉如旋盤水飲所作枳术湯主之枳术湯方枳實七枚白术二两右二味以水五升煮取三升分温三服腹中耎即當附方外䑓防巳黃耆湯治風水脉浮為在表其人或頭汗岀表無他病病者但下重從腰以上為和腰以下當腫及隂難以屈伸方見氣濕中黃疸病脉證幷治第十五論二首脉證十四條方七首寸口脉浮而緩浮則為風緩則為痺痺非中風四肢苦煩脾色必黃瘀熱以行趺陽脉堅而數數則為熱熱則消榖緊則為寒食即為滿尺脉浮爲傷腎趺陽脉緊為傷脾風寒相摶食榖即昡榖氣不消胃中苦渴渴氣下流不便不通隂𬒳其寒熱流膀胱身體盡黄名曰糓疸額上黒㣲汗岀手足中熱薄暮即發膀胱急小便自利名曰女劳疸腹如水状不治心中懊憹而熱不能食時𣣔吐名曰酒疸陽明病脉遲者食難用炮炮則發煩頭痃小便必難此𣣔作榖疸雖下之腹滿如故所以然者脉遲故也夫病酒黃疸必小便不利其候心中熱足下熱是其證也酒黄疸者或無熱請言了腹滿𣣔吐鼻燥其脉浮者先吐之沉弦者先下之酒疸心中熱𣣔嘔者吐之愈酒疸下之乆乆爲黒疸目青面黒心中如噉蒜韲状大便正黒皮膚瓜之不仁其脉浮弱雖黒㣲黄故知之師曰病黄疸發熱煩喘胸滿口燥有以病發時火劫其汗两熱所得然黄家所得從濕得之一身盡發熱面黄肚熱熱在裏當下之脙沉渴𣣔飲水小便不利者皆發黃腹滿舌痿黄燥不得睡属黄家右痿疑作心痿黃疸之病當以十八日為期治之十日以上瘥反極為難治疸而渴者其疸難治疸而不渴者其疸可治發於隂部其人必嘔陽部其人振寒而發熱也榖疸之為病寒熱不食食即頭眩心胸不安攵久發黃為榖疸􅌲陳湯主之􅌲陳湯方􅌲陳蒿六两梔子十四枚大黃二两右三味以水一斗先煮茵陳減六升内三味煮取三升去滓分温三服小便當利尿如皂角汁状色正赤一宿腹減黃從小便去也黃家日晡時發熱面反惡寒此為女劳得之腣胱急少腹滿身盡黄額上黒足下熱因作黒疸其腹脹如水状大便必黒時溏此女劳之病非水也腹滿者難治用後方消礬散方消石礬石燒等分右二味為末以大麥粥汁和服方寸匕日三服病隨大小便去小便正黃大便正黒是候也酒黄疸心中懊憹或熱痛梔子大黃湯主之梔子大黃湯方梔子十四枚大黃二两枳實五枚豉一升右四味以水六升煮取二升分温三服諸病黄家但利其小便假令脉浮當以汗解之冝桂枝加黃耆湯主之方見水病中諸黄用後方猪膏髪煎猪膏半斤亂髪如鷄子大三枚右二味和膏中煎之髪消藥成分再服病從小便出黄疸病茵陳五苓散主之一本云茵陳湯及五苓散並主之茵陳五苓散茵陳稿末十分五苓散五分方見痰飲中右二物和先食飲方寸匕日三服黃疸腹滿小便不利而赤自汗出此爲表和裏實當下之冝大黄滑石湯大黄滑石湯大黄黃檗滑石各四两梔子十五枚右四味以水六升煑取二升去滓内滑石更煮取一升頓服黄疸病小便色不變𣣔自利腹滿而喘不可除熱熱除必噦噦者小半夏湯主之方見消􅠽中諸劳腹痛而嘔者冝柴胡湯必小柴胡湯方見嘔吐中男子黄小便自利當與虚劳小建中湯方見虚劳中附方苽蒂湯治諸黃方見暍病中千金麻黃醇酒湯治黄疸麻黃三两右一味以羙清酒五升煮取二升半頓服盡冬月用酒春月用水煮之驚悸吐衂下血胸滿瘀血病脉證治第十六脉證十二條方五首寸口脉動而弱動即為驚弱則為悸師曰夫脉浮目睛暈黃衂未止暈黃去目睛急了知衂今止又曰從春至夏衂者太陽從秋至冬衂者陽明衂家不可汗汗岀必額上䧟脉緊急直視不能眴不得眠病人面無色無寒熱脉沉弦者衂浮弱手按之絶者下血煩欬者必吐血夫吐血欬逆上氣其脉數而有熱不得卧者死夫酒客欬者必致吐血此因極飲過度所致也寸口脉弦而大弦則為减大則為芤减則為寒芤則為虚寒虚相擊此名曰革婦人則半産漏下男子則亡血亡血不可發其表汗出則寒慄而振病人胸滿唇痿舌青口燥但𣣔嗽水不𣣔嚥無寒熱脉㣲大来遲腹不滿其人言我滿為有瘀血病者如熱状煩滿口乾燥而渴其脉反無熱此為隂状是瘀血也當下之火邪者桂枝去芍藥加蜀􅃮牡蠣龍骨捄逆湯主之桂枝捄逆湯方桂枝二两}
+  - {type: punctuation, offset: 1226, content: ；, id: KR3e0007_CHANT_002-bkkpn299}
+  - {type: 'tls:seg', offset: 1226, content: '', id: KR3e0007_CHANT_002-21a.12}
+  - {type: variant, offset: 1228, length: 1, content: 一, SBCK: 三}
+  - {type: variant, offset: 1228, length: 1, content: 一, krp: 三}
+  - {type: variant, offset: 1229, length: 1, content: 兩, SBCK: 两}
+  - {type: variant, offset: 1229, length: 1, content: 兩, krp: 两}
+  - {type: punctuation, offset: 1230, content: ，, id: KR3e0007_CHANT_002-bkkpn300}
+  - {type: 'tls:seg', offset: 1230, content: '', id: KR3e0007_CHANT_002-21a.13}
+  - {type: punctuation, offset: 1231, content: ；, id: KR3e0007_CHANT_002-bkkpn301}
+  - {type: 'tls:seg', offset: 1231, content: '', id: KR3e0007_CHANT_002-21a.14}
+  - {type: variant, offset: 1233, length: 0, content: '', SBCK: 六两牡蠣五两熬龍骨四两大􅀥十二枚蜀􅃮三两洗去腥右為末以水}
+  - {type: variant, offset: 1233, length: 4, content: 一兩半切, krp: 六两牡蠣五两熬龍骨四两}
+  - {type: variant, offset: 1234, length: 1, content: 兩, SBCK: 斗二升先煮蜀􅃮減二升内諸藥後取三升去滓温服一升心下悸者}
+  - {type: punctuation, offset: 1236, content: ，, id: KR3e0007_CHANT_002-bkkpn302}
+  - {type: 'tls:seg', offset: 1236, content: '', id: KR3e0007_CHANT_002-21a.15}
+  - {type: variant, offset: 1236, length: 1, content: 切, SBCK: 夏麻黄丸主之半夏麻黄丸方半夏麻黄等分右二味末之煉􅁡和丸小豆}
+  - {type: page-break, offset: 1236, content: '', id: KR3e0007_SBCK_002-25a}
+  - {type: punctuation, offset: 1237, content: ；, id: KR3e0007_CHANT_002-bkkpn303}
+  - {type: 'tls:seg', offset: 1237, content: '', id: KR3e0007_CHANT_002-21a.16}
+  - {type: variant, offset: 1238, length: 3, content: 棗六枚, SBCK: 飲服三丸日三􅄍血不止者後湯主之栢葉湯栢葉乾姜各三两艾三把}
+  - {type: variant, offset: 1239, length: 1, content: 六, krp: 十二}
+  - {type: punctuation, offset: 1241, content: 。, id: KR3e0007_CHANT_002-bkkpn304}
+  - {type: xml-element, offset: 1241, content: '', id: KR3e0007_CHANT_002-bkkxmlele70}
+  - {type: xml-element, offset: 1241, content: '', id: KR3e0007_CHANT_002-bkkxmlele71}
+  - {type: 'tls:seg', offset: 1241, content: '', id: KR3e0007_CHANT_002-22a.1}
+  - {type: 'tls:seg', offset: 1241, content: '', id: KR3e0007_CHANT_002-22a.2}
+  - {type: variant, offset: 1241, length: 0, content: '', krp: 蜀􅃮三两洗去腥}
+  - {type: variant, offset: 1242, length: 0, content: '', SBCK: 三味以水}
+  - {type: variant, offset: 1242, length: 0, content: '', krp: 為末以水一斗二升先煮蜀􅃮減二升内諸藥後取三升去滓温服一升心下悸者半夏麻黄丸主之半夏麻黄丸方半夏麻黄等分右二味末之煉蜜和丸小豆大飲服三丸日三吐血不止者後湯主之栢葉湯栢葉乾姜各三两艾三把右三味以水}
+  - {type: variant, offset: 1243, length: 0, content: '', SBCK: 升取馬通汁一升合煮取一升分温􅂯服下血先便後血此遠血也黃􅁟湯主之黄􅁟湯方亦主􅄍血衂血甘草乾地黄白术附子炮阿膠黄苓各三两竈中黄􅁟半斤右七味以水八升煮取三升分温二服下血先血後便此近血也赤小豆當歸散主之方見孤惑中心氣不足􅄍血衂血用後方瀉心湯亦治霍亂大黄二两黄連黄芩各一两右三}
+  - {type: page-break, offset: 1243, content: '', id: KR3e0007_SBCK_002-25b}
+  - {type: variant, offset: 1243, length: 0, content: '', krp: 升取馬通汁一升合煮取一升分温再服下血先便後血此遠血也黃土湯主之黄土湯方亦主吐血衂血甘草乾地黄白术附子炮阿膠黄苓各三两竈中黄土半斤右七味以水八升煮取三升分温二服下血先血後便此近血也赤小豆當歸散主之方見孤惑中心氣不足吐血衂血用後方瀉心湯亦治霍亂大黄二两黄連黄芩各一两右三}
+  - {type: punctuation, offset: 1244, content: ，, id: KR3e0007_CHANT_002-bkkpn305}
+  - {type: 'tls:seg', offset: 1244, content: '', id: KR3e0007_CHANT_002-22a.3}
+  - {type: punctuation, offset: 1248, content: ，, id: KR3e0007_CHANT_002-bkkpn306}
+  - {type: 'tls:seg', offset: 1248, content: '', id: KR3e0007_CHANT_002-22a.4}
+  - {type: punctuation, offset: 1252, content: ，, id: KR3e0007_CHANT_002-bkkpn307}
+  - {type: 'tls:seg', offset: 1252, content: '', id: KR3e0007_CHANT_002-22a.5}
+  - {type: variant, offset: 1252, length: 0, content: '', SBCK: 頓服之嘔􅄍噦下利病脉證治第十七論一首脉證二十七條方二十三首夫嘔家有癰膿不可治嘔膿盡自愈先嘔􅁍渴者此為􅁒解先渴􅁍嘔者為水停心下此属飲家嘔家本渴今反不渴者以心下有支飲故也此属支飲問曰病人脉數數為􅀬當消數引食而反􅄍者何也師曰以發其汗令陽㣲膈氣虚脉乃數數為客􅀬不能消榖胃中虚冷故也脉弦者虚也胃氣無餘朝食暮􅄍變為胃反寒在於上醫反下之令脉反弦故名曰虚寸口脉㣲而數㣲則無氣無氣則荣虚荣虚則血不足血不足則胸中冷趺陽脉浮而濇浮則為虚虚則傷脾脾傷則不磨朝食暮􅄍暮食朝􅄍􅀫榖不化名曰胃反脉緊而濇其病難治病人􅁒􅄍者不可下之噦而腹滿視其前後知何部不利利之即愈嘔而胸滿者用後方茱茰湯吳茱茰一升人參三两生姜六两大􅀥十二枚右四味以水五升煮取三升温服七合日三服乾嘔􅄍涎沬頭痛者茱茰湯主之方見上嘔而腸鳴心下痞者用後方半夏瀉心湯半夏半升洗黃芩乾姜人參各三两黄連一两大􅀥十二枚甘草三两炙右七味以水一斗煮取六升去滓􅂯煮取三升温服一升日三乾嘔而利者用後方黄芩加半夏生姜湯方黃芩三两甘草二两炙芍藥三两半夏半斤生姜四两大􅀥二十枚右六味以水一斗煮取三升去滓温服一升日􅂯夜一服諸嘔􅄍􅂖不得下者小半夏湯主之方見痰飲中嘔􅄍而病在膈上後思水者解急與之思水者用後方猪苓散猪苓茯苓白术各等分右三味杵為散飲服方寸匕日三嘔而脉弱小便復利身有㣲􅀬見厥者難治用後方四逆湯附子七箇生用乾姜一两半甘草二两炙右三味以水三升煮取一升二合}
+  - {type: page-break, offset: 1252, content: '', id: KR3e0007_SBCK_002-26a}
+  - {type: page-break, offset: 1252, content: '', id: KR3e0007_SBCK_002-26b}
+  - {type: page-break, offset: 1252, content: '', id: KR3e0007_SBCK_002-27a}
+  - {type: page-break, offset: 1252, content: '', id: KR3e0007_SBCK_002-27b}
+  - {type: page-break, offset: 1252, content: '', id: KR3e0007_SBCK_002-28a}
+  - {type: variant, offset: 1252, length: 0, content: '', krp: 頓服之嘔吐噦下利病脉證治第十七論一首脉證二十七條方二十三首夫嘔家有癰膿不可治嘔膿盡自愈先嘔却渴者此為𣣔解先渴却嘔者為水停心下此属飲家嘔家本渴今反不渴者以心下有支飲故也此属支飲問曰病人脉數數為熱當消數引食而反吐者何也師曰以發其汗令陽㣲膈氣虚脉乃數數為客熱不能消榖胃中虚冷故也脉弦者虚也胃氣無餘朝食暮吐變為胃反寒在於上醫反下之令脉反弦故名曰虚寸口脉㣲而數㣲則無氣無氣則荣虚荣虚則血不足血不足則胸中冷趺陽脉浮而濇浮則為虚虚則傷脾脾傷則不磨朝食暮吐暮食朝吐宿榖不化名曰胃反脉緊而濇其病難治病人𣣔吐者不可下之噦而腹滿視其前後知何部不利利之即愈嘔而胸滿者用後方茱茰湯吳茱茰一升人參三两生姜六两大棗十二枚右四味以水五升煮取三升温服七合日三服乾嘔吐涎沬頭痛者茱茰湯主之方見上嘔而腸鳴心下痞者用後方半夏瀉心湯半夏半升洗黃芩乾姜人參各三两黄連一两大棗十二枚甘草三两炙右七味以水一斗煮取六升去滓再煮取三升温服一升日三乾嘔而利者用後方黄芩加半夏生姜湯方黃芩三两甘草二两炙芍藥三两半夏半斤生姜四两大棗二十枚右六味以水一斗煮取三升去滓温服一升日再夜一服諸嘔吐糓不得下者小半夏湯主之方見痰飲中嘔吐而病在膈上後思水者解急與之思水者用後方猪苓散猪苓茯苓白术各等分右三味杵為散飲服方寸匕日三嘔而脉弱小便復利身有㣲熱見厥者難治用後方四逆湯附子七箇生用乾姜一两半甘草二两炙右三味以水三升煮取一升二合}
+  - {type: punctuation, offset: 1254, content: ，, id: KR3e0007_CHANT_002-bkkpn308}
+  - {type: 'tls:seg', offset: 1254, content: '', id: KR3e0007_CHANT_002-22a.6}
+  - {type: variant, offset: 1255, length: 1, content: 溫, SBCK: 温􅂯服强人可大附子一枚乾姜}
+  - {type: variant, offset: 1255, length: 1, content: 溫, krp: 温再服强人可大附子一枚乾姜}
+  - {type: variant, offset: 1257, length: 0, content: '', SBCK: 两嘔而發􅀬者用後方小柴胡湯方柴胡半斤黃芩三两人參三两甘草二两半夏半斤生姜三两大􅀥十二枚右七味以水一斗二升煮取六升去滓􅂯煎取三升温}
+  - {type: variant, offset: 1257, length: 0, content: '', krp: 两嘔而發熱者用後方小柴胡湯方柴胡半斤黃芩三两人參三两甘草二两半夏半斤生姜三两大棗十二枚右七味以水一斗二升煮取六升去滓再煎取三升温}
+  - {type: punctuation, offset: 1258, content: 。, id: KR3e0007_CHANT_002-bkkpn309}
+  - {type: 'tls:seg', offset: 1258, content: '', id: KR3e0007_CHANT_002-22a.7}
+  - {type: variant, offset: 1259, length: 4, content: 服覺身痹, SBCK: 升日三胃反嘔􅄍者大}
+  - {type: page-break, offset: 1259, content: '', id: KR3e0007_SBCK_002-28b}
+  - {type: variant, offset: 1259, length: 4, content: 服覺身痹, krp: 升日三胃反嘔吐者大}
+  - {type: punctuation, offset: 1263, content: ，, id: KR3e0007_CHANT_002-bkkpn310}
+  - {type: 'tls:seg', offset: 1263, content: '', id: KR3e0007_CHANT_002-22a.8}
+  - {type: variant, offset: 1264, length: 73, content: 日許再服三服都盡其人如冒狀勿怪即是朮附竝走皮中逐水氣未得除故耳風濕相搏骨節疼煩掣痛不得屈伸近之則痛劇汗出短氣小便不利惡風不欲去衣或身微腫者甘草附子, SBCK: 夏}
+  - {type: variant, offset: 1264, length: 73, content: 日許再服三服都盡其人如冒狀勿怪即是朮附竝走皮中逐水氣未得除故耳風濕相搏骨節疼煩掣痛不得屈伸近之則痛劇汗出短氣小便不利惡風不欲去衣或身微腫者甘草附子, krp: 夏}
+  - {type: punctuation, offset: 1268, content: ，, id: KR3e0007_CHANT_002-bkkpn311}
+  - {type: 'tls:seg', offset: 1268, content: '', id: KR3e0007_CHANT_002-22a.9}
+  - {type: punctuation, offset: 1272, content: ，, id: KR3e0007_CHANT_002-bkkpn312}
+  - {type: 'tls:seg', offset: 1272, content: '', id: KR3e0007_CHANT_002-22a.10}
+  - {type: punctuation, offset: 1277, content: ，, id: KR3e0007_CHANT_002-bkkpn313}
+  - {type: 'tls:seg', offset: 1277, content: '', id: KR3e0007_CHANT_002-22a.11}
+  - {type: punctuation, offset: 1279, content: ，, id: KR3e0007_CHANT_002-bkkpn314}
+  - {type: 'tls:seg', offset: 1279, content: '', id: KR3e0007_CHANT_002-22a.12}
+  - {type: punctuation, offset: 1287, content: ，, id: KR3e0007_CHANT_002-bkkpn315}
+  - {type: 'tls:seg', offset: 1287, content: '', id: KR3e0007_CHANT_002-22a.13}
+  - {type: punctuation, offset: 1295, content: 。, id: KR3e0007_CHANT_002-bkkpn316}
+  - {type: xml-element, offset: 1295, content: '', id: KR3e0007_CHANT_002-bkkxmlele72}
+  - {type: xml-element, offset: 1295, content: '', id: KR3e0007_CHANT_002-bkkxmlele73}
+  - {type: 'tls:seg', offset: 1295, content: '', id: KR3e0007_CHANT_002-23a.1}
+  - {type: 'tls:seg', offset: 1295, content: '', id: KR3e0007_CHANT_002-23a.2}
+  - {type: punctuation, offset: 1299, content: ，, id: KR3e0007_CHANT_002-bkkpn317}
+  - {type: 'tls:seg', offset: 1299, content: '', id: KR3e0007_CHANT_002-23a.3}
+  - {type: punctuation, offset: 1303, content: ，, id: KR3e0007_CHANT_002-bkkpn318}
+  - {type: 'tls:seg', offset: 1303, content: '', id: KR3e0007_CHANT_002-23a.4}
+  - {type: punctuation, offset: 1309, content: ，, id: KR3e0007_CHANT_002-bkkpn319}
+  - {type: 'tls:seg', offset: 1309, content: '', id: KR3e0007_CHANT_002-23a.5}
+  - {type: punctuation, offset: 1314, content: ，, id: KR3e0007_CHANT_002-bkkpn320}
+  - {type: 'tls:seg', offset: 1314, content: '', id: KR3e0007_CHANT_002-23a.6}
+  - {type: punctuation, offset: 1318, content: ，, id: KR3e0007_CHANT_002-bkkpn321}
+  - {type: 'tls:seg', offset: 1318, content: '', id: KR3e0007_CHANT_002-23a.7}
+  - {type: punctuation, offset: 1322, content: ，, id: KR3e0007_CHANT_002-bkkpn322}
+  - {type: 'tls:seg', offset: 1322, content: '', id: KR3e0007_CHANT_002-23a.8}
+  - {type: punctuation, offset: 1328, content: ，, id: KR3e0007_CHANT_002-bkkpn323}
+  - {type: 'tls:seg', offset: 1328, content: '', id: KR3e0007_CHANT_002-23a.9}
+  - {type: punctuation, offset: 1333, content: ，, id: KR3e0007_CHANT_002-bkkpn324}
+  - {type: 'tls:seg', offset: 1333, content: '', id: KR3e0007_CHANT_002-23a.10}
+  - {type: punctuation, offset: 1340, content: 。, id: KR3e0007_CHANT_002-bkkpn325}
+  - {type: xml-element, offset: 1340, content: '', id: KR3e0007_CHANT_002-bkkxmlele74}
+  - {type: xml-element, offset: 1340, content: '', id: KR3e0007_CHANT_002-bkkxmlele75}
+  - {type: 'tls:seg', offset: 1340, content: '', id: KR3e0007_CHANT_002-24a.1}
+  - {type: 'tls:seg', offset: 1340, content: '', id: KR3e0007_CHANT_002-24a.2}
+  - {type: variant, offset: 1340, length: 0, content: '', SBCK: 千金云治胃反不受食食入即多􅄍外䑓云治嘔心下痞鞭者大半夏湯方半夏二升洗完用人參三两白􅁡一升右三味以水一斗二升和􅁡􅀭之二百四十遍煮取二升半温服一升餘分􅂯服食巳即􅄍者用後方外䑓治􅄍水大黃}
+  - {type: variant, offset: 1340, length: 0, content: '', krp: 千金云治胃反不受食食入即多吐外䑓云治嘔心下痞鞭者大半夏湯方半夏二升洗完用人參三两白蜜一升右三味以水一斗二升和蜜揚之二百四十遍煮取二升半温服一升餘分再服食巳即吐者用後方外䑓治吐水大黃}
+  - {type: variant, offset: 1342, length: 2, content: 附子, SBCK: ''}
+  - {type: variant, offset: 1342, length: 2, content: 附子, krp: ''}
+  - {type: punctuation, offset: 1346, content: ：, id: KR3e0007_CHANT_002-bkkpn326}
+  - {type: xml-element, offset: 1346, content: '', id: KR3e0007_CHANT_002-bkkxmlele76}
+  - {type: xml-element, offset: 1346, content: '', id: KR3e0007_CHANT_002-bkkxmlele77}
+  - {type: 'tls:seg', offset: 1346, content: '', id: KR3e0007_CHANT_002-24a.3}
+  - {type: variant, offset: 1346, length: 0, content: '', SBCK: 大黃四两甘草一两右二味以水三升煮取一升分温􅂯服胃反􅄍而渴􅁒飲水者用後方茯苓澤瀉湯外䑓治消渴脉絶胃反􅄍食之有小麥一升茯苓半斤澤瀉四两}
+  - {type: page-break, offset: 1346, content: '', id: KR3e0007_SBCK_002-29a}
+  - {type: variant, offset: 1346, length: 0, content: '', krp: 大黃四两甘草一两右二味以水三升煮取一升分温再服胃反吐而渴𣣔飲水者用後方茯苓澤瀉湯外䑓治消渴脉絶胃反吐食之有小麥一升茯苓半斤澤瀉四两}
+  - {type: variant, offset: 1349, length: 4, content: 兩炙附子, SBCK: 两桂枝二两白术三两生姜四两右六味以水一斗煮取三升内澤瀉􅂯煮取二升半温服八合日三􅄍後渴飲得水而貪飲者文蛤湯主之兼主㣲風脉者頭痛文蛤湯文蛤五两麻黄甘草生姜各三两石膏五两杏仁五十箇大􅀥十}
+  - {type: page-break, offset: 1349, content: '', id: KR3e0007_SBCK_002-29b}
+  - {type: variant, offset: 1349, length: 4, content: 兩炙附子, krp: 两桂枝二两白术三两生姜四两右六味以水一斗煮取三升内澤瀉再煮取二升半温服八合日三吐後渴飲得水而貪飲者文蛤湯主之兼主㣲風脉者頭痛文蛤湯文蛤五两麻黄甘草生姜各三两石膏五两杏仁五十箇大棗十}
+  - {type: punctuation, offset: 1350, content: ，, id: KR3e0007_CHANT_002-bkkpn327}
+  - {type: 'tls:seg', offset: 1350, content: '', id: KR3e0007_CHANT_002-24a.4}
+  - {type: punctuation, offset: 1351, content: ；, id: KR3e0007_CHANT_002-bkkpn328}
+  - {type: 'tls:seg', offset: 1351, content: '', id: KR3e0007_CHANT_002-24a.5}
+  - {type: punctuation, offset: 1355, content: ，, id: KR3e0007_CHANT_002-bkkpn329}
+  - {type: 'tls:seg', offset: 1355, content: '', id: KR3e0007_CHANT_002-24a.6}
+  - {type: variant, offset: 1355, length: 13, content: 炮去皮白朮二兩桂枝四兩去皮, SBCK: ''}
+  - {type: variant, offset: 1355, length: 13, content: 炮去皮白朮二兩桂枝四兩去皮, krp: ''}
+  - {type: punctuation, offset: 1356, content: ，, id: KR3e0007_CHANT_002-bkkpn330}
+  - {type: 'tls:seg', offset: 1356, content: '', id: KR3e0007_CHANT_002-24a.7}
+  - {type: punctuation, offset: 1358, content: ；, id: KR3e0007_CHANT_002-bkkpn331}
+  - {type: 'tls:seg', offset: 1358, content: '', id: KR3e0007_CHANT_002-24a.8}
+  - {type: punctuation, offset: 1362, content: ，, id: KR3e0007_CHANT_002-bkkpn332}
+  - {type: 'tls:seg', offset: 1362, content: '', id: KR3e0007_CHANT_002-24a.9}
+  - {type: punctuation, offset: 1366, content: ，, id: KR3e0007_CHANT_002-bkkpn333}
+  - {type: 'tls:seg', offset: 1366, content: '', id: KR3e0007_CHANT_002-24a.10}
+  - {type: punctuation, offset: 1368, content: 。, id: KR3e0007_CHANT_002-bkkpn334}
+  - {type: xml-element, offset: 1368, content: '', id: KR3e0007_CHANT_002-bkkxmlele78}
+  - {type: xml-element, offset: 1368, content: '', id: KR3e0007_CHANT_002-bkkxmlele79}
+  - {type: 'tls:seg', offset: 1368, content: '', id: KR3e0007_CHANT_002-25a.1}
+  - {type: 'tls:seg', offset: 1368, content: '', id: KR3e0007_CHANT_002-25a.2}
+  - {type: variant, offset: 1369, length: 1, content: 四, SBCK: 七}
+  - {type: variant, offset: 1369, length: 1, content: 四, krp: 七}
+  - {type: punctuation, offset: 1371, content: ，, id: KR3e0007_CHANT_002-bkkpn335}
+  - {type: 'tls:seg', offset: 1371, content: '', id: KR3e0007_CHANT_002-25a.3}
+  - {type: punctuation, offset: 1375, content: ，, id: KR3e0007_CHANT_002-bkkpn336}
+  - {type: 'tls:seg', offset: 1375, content: '', id: KR3e0007_CHANT_002-25a.4}
+  - {type: variant, offset: 1377, length: 0, content: '', SBCK: 二升温服一升汗出即愈乾嘔􅄍逆􅄍涎沫用後方半夏乾姜散半夏乾姜等分右二味杵為散取方寸匕漿水一升半煎取七合頓服之病人胸中似喘不喘似嘔不嘔似噦不噦徹心中憤憤然無奈用後方生姜半夏湯半夏半斤生姜汁一升右二味以水}
+  - {type: page-break, offset: 1377, content: '', id: KR3e0007_SBCK_002-30a}
+  - {type: variant, offset: 1377, length: 0, content: '', krp: 二升温服一升汗出即愈乾嘔吐逆吐涎沫用後方半夏乾姜散半夏乾姜等分右二味杵為散取方寸匕漿水一升半煎取七合頓服之病人胸中似喘不喘似嘔不嘔似噦不噦徹心中憤憤然無奈用後方生姜半夏湯半夏半斤生姜汁一升右二味以水}
+  - {type: punctuation, offset: 1379, content: ，, id: KR3e0007_CHANT_002-bkkpn337}
+  - {type: 'tls:seg', offset: 1379, content: '', id: KR3e0007_CHANT_002-25a.5}
+  - {type: variant, offset: 1379, length: 3, content: 去滓溫, SBCK: 煮半夏取二升内生姜汁煮取一升半小冷分四服日三夜一服止停後服乾嘔噦􅀂手足厥者橘皮湯主之橘皮湯橘皮四两生姜半斤右二味以水七升煮取三升温服一升下咽即愈噦逆者橘皮竹茹湯主之橘皮竹茹湯橘皮二升竹茹二升大􅀥三十枚生姜半斤甘草五两人參一两右六味以水一斗煮取三升温}
+  - {type: page-break, offset: 1379, content: '', id: KR3e0007_SBCK_002-30b}
+  - {type: variant, offset: 1379, length: 3, content: 去滓溫, krp: 煮半夏取二升内生姜汁煮取一升半小冷分四服日三夜一服止停後服乾嘔噦若手足厥者橘皮湯主之橘皮湯橘皮四两生姜半斤右二味以水七升煮取三升温服一升下咽即愈噦逆者橘皮竹茹湯主之橘皮竹茹湯橘皮二升竹茹二升大棗三十枚生姜半斤甘草五两人參一两右六味以水一斗煮取三升温}
+  - {type: punctuation, offset: 1381, content: ，, id: KR3e0007_CHANT_002-bkkpn338}
+  - {type: 'tls:seg', offset: 1381, content: '', id: KR3e0007_CHANT_002-25a.6}
+  - {type: punctuation, offset: 1385, content: ，, id: KR3e0007_CHANT_002-bkkpn339}
+  - {type: 'tls:seg', offset: 1385, content: '', id: KR3e0007_CHANT_002-25a.7}
+  - {type: punctuation, offset: 1388, content: ，, id: KR3e0007_CHANT_002-bkkpn340}
+  - {type: 'tls:seg', offset: 1388, content: '', id: KR3e0007_CHANT_002-25a.8}
+  - {type: variant, offset: 1388, length: 1, content: 初, SBCK: 夫六府氣絶於外者手足寒上氣脚縮五臟氣絶於内者利不禁下甚者手足不仁下利脉沉弦者下重脉大者爲未止脉㣲弱數者爲􅁒自止雖發􅀬不死下利手足厥冷無脉者炙之不濕􅀂脉不還反㣲喘者死少隂􅀒趺陽者爲順也下利有㣲􅀬而渴脉弱者今自愈下利脉數有㣲􅀬汗出今自愈設脉􅂃爲未解下利脉數而渴者今自愈設不差必清膿血以有􅀬故也下利脉反弦發􅀬身汗者自愈下利氣者當利其小便下利寸脉反浮數尺中自濇者必清膿血下利清榖不可攻其表汗出必脹滿下利脉沉而遲其人面少赤身有㣲執下利清榖者必欝胃汗岀而解病人必㣲􅀬所以然者其面戴陽下虚故也下利後脉絶手足厥冷晬時脉還手足温者生脉不還者死下利腹脹滿身體疼痛者先温其裏乃攻其表温裏冝四逆湯攻表冝桂枝湯四逆湯方見上桂枝湯桂枝三两去皮芍藥三两甘草三两炙生姜三两大􅀥十二枚右五味㕮咀以水七升㣲火煮取三升去滓適寒温服一升服已湏􅁷啜稀粥一升巳助藥力温覆令一時許遍身􅀬􅀬㣲似有汗者益佳不可令如水淋漓􅀂一服汗岀病差停後服下利三部脉皆平按之心下堅者急下之冝大承湯下利脉遲而滑者實也利未􅁒止急下之冝大承氣湯下利脉反滑者當有所去下乃愈冝大承氣湯下利巳差至其年月日時復發者以病不盡故也當下之冝大承氣湯大承氣湯見痓病中下利譫語者有燥屎也小承氣湯主之小承氣湯大黃四两厚朴二两炙枳實大者三枚炙右三味以水四升煮取一升二合去滓分温二}
+  - {type: page-break, offset: 1388, content: '', id: KR3e0007_SBCK_002-31a}
+  - {type: page-break, offset: 1388, content: '', id: KR3e0007_SBCK_002-31b}
+  - {type: page-break, offset: 1388, content: '', id: KR3e0007_SBCK_002-32a}
+  - {type: variant, offset: 1388, length: 13, content: 初服得微汗則解能食汗出復煩, krp: 夫六府氣絶於外}
+  - {type: variant, offset: 1391, length: 2, content: 微汗, SBCK: 利}
+  - {type: variant, offset: 1394, length: 7, content: 解能食汗出復煩, SBCK: 止下利便膿血}
+  - {type: punctuation, offset: 1395, content: 。, id: KR3e0007_CHANT_002-bkkpn341}
+  - {type: 'tls:seg', offset: 1395, content: '', id: KR3e0007_CHANT_002-25a.9}
+  - {type: punctuation, offset: 1402, content: ，, id: KR3e0007_CHANT_002-bkkpn342}
+  - {type: 'tls:seg', offset: 1402, content: '', id: KR3e0007_CHANT_002-25a.10}
+  - {type: variant, offset: 1402, length: 4, content: 服五合恐, SBCK: 桃花湯主之桃花湯赤石脂}
+  - {type: page-break, offset: 1402, content: '', id: KR3e0007_SBCK_002-32b}
+  - {type: variant, offset: 1402, length: 1, content: 服, krp: 手足寒上氣脚縮}
+  - {type: variant, offset: 1404, length: 1, content: 合, krp: 臟}
+  - {type: punctuation, offset: 1405, content: 。, id: KR3e0007_CHANT_002-bkkpn343}
+  - {type: 'tls:seg', offset: 1405, content: '', id: KR3e0007_CHANT_002-25a.11}
+  - {type: variant, offset: 1405, length: 1, content: 恐, krp: 氣}
+  - {type: variant, offset: 1406, length: 1, content: 一, krp: 絶}
+  - {type: variant, offset: 1407, length: 1, content: 升, krp: 於}
+  - {type: variant, offset: 1408, length: 4, content: 多者服六, SBCK: 一半剉一半篩末乾姜一两粳米一升右三味以水七升煮米令熟去滓温}
+  - {type: variant, offset: 1408, length: 1, content: 多, krp: 内}
+  - {type: punctuation, offset: 1410, content: ，, id: KR3e0007_CHANT_002-bkkpn344}
+  - {type: 'tls:seg', offset: 1410, content: '', id: KR3e0007_CHANT_002-25a.12}
+  - {type: variant, offset: 1410, length: 10, content: 服六七合為妙太陽中暍, krp: 利不禁下甚者手足不仁下利脉沉弦者下重脉大者爲未止脉㣲弱數者爲𣣔自止雖}
+  - {type: variant, offset: 1414, length: 9, content: 為妙太陽中暍發熱惡, SBCK: 内赤石脂末方寸匕日三服􅀂一服愈餘勿服􅀬利重下者白頭翁湯主之白頭翁湯白頭翁二两黃連黃栢秦皮各三两右四味以水七升煮取二升去滓温服一升不愈更服下利後更煩桉之心下濡者爲虚煩也梔子豉湯主之梔子豉湯梔子十四枚香豉四合右二味以水四升先煮梔子得二升半内豉煮取一升半去滓分二服温進一服得􅄍則止下利清榖裏}
+  - {type: page-break, offset: 1414, content: '', id: KR3e0007_SBCK_002-33a}
+  - {type: punctuation, offset: 1416, content: 。, id: KR3e0007_CHANT_002-bkkpn345}
+  - {type: xml-element, offset: 1416, content: '', id: KR3e0007_CHANT_002-bkkxmlele80}
+  - {type: xml-element, offset: 1416, content: '', id: KR3e0007_CHANT_002-bkkxmlele81}
+  - {type: 'tls:seg', offset: 1416, content: '', id: KR3e0007_CHANT_002-26a.1}
+  - {type: 'tls:seg', offset: 1416, content: '', id: KR3e0007_CHANT_002-26a.2}
+  - {type: punctuation, offset: 1420, content: ，, id: KR3e0007_CHANT_002-bkkpn346}
+  - {type: 'tls:seg', offset: 1420, content: '', id: KR3e0007_CHANT_002-26a.3}
+  - {type: variant, offset: 1422, length: 21, content: 惡寒身重而疼痛其脈弦細芤遲小便已洒洒然毛聳, krp: 不死下利}
+  - {type: punctuation, offset: 1424, content: ，, id: KR3e0007_CHANT_002-bkkpn347}
+  - {type: 'tls:seg', offset: 1424, content: '', id: KR3e0007_CHANT_002-26a.4}
+  - {type: variant, offset: 1424, length: 2, content: 身重, SBCK: 外􅀬汗岀}
+  - {type: variant, offset: 1427, length: 1, content: 疼, SBCK: 厥者通脉四逆湯主之通脉四逆湯方附子大者一枚生用乾姜三两强者四两甘草二两炙右三味以水三升煮取一升一合去滓分温􅂯服下利肺}
+  - {type: page-break, offset: 1427, content: '', id: KR3e0007_SBCK_002-33b}
+  - {type: punctuation, offset: 1429, content: ，, id: KR3e0007_CHANT_002-bkkpn348}
+  - {type: 'tls:seg', offset: 1429, content: '', id: KR3e0007_CHANT_002-26a.5}
+  - {type: variant, offset: 1429, length: 72, content: 其脈弦細芤遲小便已洒洒然毛聳手足逆冷小有勞身即熱口前開板齒燥若發其汗則其惡寒甚加溫針則發熱甚數下之則淋甚太陽中熱者暍是也汗出惡寒身熱而渴白虎加人, SBCK: 紫}
+  - {type: punctuation, offset: 1435, content: ，, id: KR3e0007_CHANT_002-bkkpn349}
+  - {type: 'tls:seg', offset: 1435, content: '', id: KR3e0007_CHANT_002-26a.6}
+  - {type: punctuation, offset: 1438, content: ，, id: KR3e0007_CHANT_002-bkkpn350}
+  - {type: 'tls:seg', offset: 1438, content: '', id: KR3e0007_CHANT_002-26a.7}
+  - {type: substitution, offset: 1438, original: 洒, replacement: 灑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0806}}
+  - {type: substitution, offset: 1439, original: 洒, replacement: 灑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0806}}
+  - {type: punctuation, offset: 1443, content: ，, id: KR3e0007_CHANT_002-bkkpn351}
+  - {type: 'tls:seg', offset: 1443, content: '', id: KR3e0007_CHANT_002-26a.8}
+  - {type: variant, offset: 1445, length: 1, content: 逆, krp: 厥}
+  - {type: punctuation, offset: 1447, content: ；, id: KR3e0007_CHANT_002-bkkpn352}
+  - {type: 'tls:seg', offset: 1447, content: '', id: KR3e0007_CHANT_002-26a.9}
+  - {type: variant, offset: 1447, length: 1, content: 小, krp: 無脉者炙之不濕若脉不還反㣲喘者死少隂負趺陽者爲順也下利}
+  - {type: variant, offset: 1449, length: 45, content: 勞身即熱口前開板齒燥若發其汗則其惡寒甚加溫針則發熱甚數下之則淋甚太陽中熱者暍是也汗出惡寒身, krp: 㣲}
+  - {type: punctuation, offset: 1450, content: ，, id: KR3e0007_CHANT_002-bkkpn353}
+  - {type: 'tls:seg', offset: 1450, content: '', id: KR3e0007_CHANT_002-26a.10}
+  - {type: punctuation, offset: 1453, content: ，, id: KR3e0007_CHANT_002-bkkpn354}
+  - {type: 'tls:seg', offset: 1453, content: '', id: KR3e0007_CHANT_002-26a.11}
+  - {type: punctuation, offset: 1459, content: ，, id: KR3e0007_CHANT_002-bkkpn355}
+  - {type: 'tls:seg', offset: 1459, content: '', id: KR3e0007_CHANT_002-26a.12}
+  - {type: punctuation, offset: 1463, content: ，, id: KR3e0007_CHANT_002-bkkpn356}
+  - {type: 'tls:seg', offset: 1463, content: '', id: KR3e0007_CHANT_002-26a.13}
+  - {type: punctuation, offset: 1468, content: ；, id: KR3e0007_CHANT_002-bkkpn357}
+  - {type: 'tls:seg', offset: 1468, content: '', id: KR3e0007_CHANT_002-26a.14}
+  - {type: punctuation, offset: 1475, content: ；, id: KR3e0007_CHANT_002-bkkpn358}
+  - {type: 'tls:seg', offset: 1475, content: '', id: KR3e0007_CHANT_002-26a.15}
+  - {type: punctuation, offset: 1481, content: 。, id: KR3e0007_CHANT_002-bkkpn359}
+  - {type: xml-element, offset: 1481, content: '', id: KR3e0007_CHANT_002-bkkxmlele82}
+  - {type: xml-element, offset: 1481, content: '', id: KR3e0007_CHANT_002-bkkxmlele83}
+  - {type: 'tls:seg', offset: 1481, content: '', id: KR3e0007_CHANT_002-27a.1}
+  - {type: 'tls:seg', offset: 1481, content: '', id: KR3e0007_CHANT_002-27a.2}
+  - {type: punctuation, offset: 1486, content: ，, id: KR3e0007_CHANT_002-bkkpn360}
+  - {type: 'tls:seg', offset: 1486, content: '', id: KR3e0007_CHANT_002-27a.3}
+  - {type: punctuation, offset: 1489, content: ，, id: KR3e0007_CHANT_002-bkkpn361}
+  - {type: 'tls:seg', offset: 1489, content: '', id: KR3e0007_CHANT_002-27a.4}
+  - {type: punctuation, offset: 1493, content: ，, id: KR3e0007_CHANT_002-bkkpn362}
+  - {type: 'tls:seg', offset: 1493, content: '', id: KR3e0007_CHANT_002-27a.5}
+  - {type: punctuation, offset: 1497, content: ，, id: KR3e0007_CHANT_002-bkkpn363}
+  - {type: 'tls:seg', offset: 1497, content: '', id: KR3e0007_CHANT_002-27a.6}
+  - {type: variant, offset: 1497, length: 0, content: '', krp: 脉弱者今自愈下利脉數有㣲熱汗出今自愈設脉緊爲未解下利脉數而渴者今自愈設不差必清膿血以有熱故也下利脉反弦發熱身汗者自愈下利氣者當利其小便下利寸脉反浮數尺中自濇者必清膿血下利清榖不可攻其表汗出必脹滿下利脉沉而遲其人面少赤身有㣲執下利清榖者必欝胃汗岀而解病人必㣲熱所以然者其面戴陽下虚故也下利後脉絶手足厥冷晬時脉還手足温者生脉不還者死下利腹脹滿身體疼痛者先温其裏乃攻其表温裏冝四逆湯攻表冝桂枝湯四逆湯方見上桂枝湯桂枝三两去皮芍藥三两甘草三两炙生姜三两大棗十二枚右五味㕮咀以水七升㣲火煮取三升去滓適寒温服一升服已湏臾啜稀粥一升巳助藥力温覆令一時許遍身熱熱㣲似有汗者益佳不可令如水淋漓若一服汗岀病差停後服下利三部脉皆平按之心下堅者急下之冝大承湯下利脉遲而滑者實也利未𣣔止急下之冝大承氣湯下利脉反滑者當有所去下乃愈冝大承氣湯下利巳差至其年月日時復發者以病不盡故也當下之冝大承氣湯大承氣湯見痓病中下利譫語者有燥屎也小承氣湯主之小承氣湯大黃四两厚朴二两炙枳實大者三枚炙右三味以水四升煮取一升二合去滓分温二服得利則止下利便膿血者桃花湯主之桃花湯赤石脂一升一半剉一半篩末乾姜一两粳米一升右三味以水七升煮米令熟去滓温七合内赤石脂末方寸匕日三服若一服愈餘勿服熱利重下者}
+  - {type: variant, offset: 1498, length: 3, content: 虎加人, krp: 頭翁湯主之白頭翁湯白頭翁二两黃連黃栢秦皮各三两右四味以水七升煮取二升去滓温服一升不愈更服下利後更煩桉之心下濡者爲虚煩也梔子豉湯主之梔子豉湯梔子十四枚香豉四合右二味以水四升先煮梔子得二升半内豉煮取一升半去滓分二服温進一服得吐則止下利清榖裏寒外熱汗岀而厥者通脉四逆湯主之通脉四逆湯方附子大者一枚生用乾姜三两强者四两甘草二两炙右三味以水三升煮取一升一合去滓分温再服下利肺痛紫}
+  - {type: punctuation, offset: 1505, content: 。, id: KR3e0007_CHANT_002-bkkpn364}
+  - {type: xml-element, offset: 1505, content: '', id: KR3e0007_CHANT_002-bkkxmlele84}
+  - {type: xml-element, offset: 1505, content: '', id: KR3e0007_CHANT_002-bkkxmlele85}
+  - {type: 'tls:seg', offset: 1505, content: '', id: KR3e0007_CHANT_002-27a.7}
+  - {type: variant, offset: 1505, length: 3, content: 白虎人, SBCK: 紫}
+  - {type: variant, offset: 1505, length: 3, content: 白虎人, krp: 紫}
+  - {type: punctuation, offset: 1511, content: ：, id: KR3e0007_CHANT_002-bkkpn365}
+  - {type: xml-element, offset: 1511, content: '', id: KR3e0007_CHANT_002-bkkxmlele86}
+  - {type: xml-element, offset: 1511, content: '', id: KR3e0007_CHANT_002-bkkxmlele87}
+  - {type: 'tls:seg', offset: 1511, content: '', id: KR3e0007_CHANT_002-27a.8}
+  - {type: variant, offset: 1511, length: 7, content: 知母六兩石膏一, SBCK: 紫參半}
+  - {type: variant, offset: 1511, length: 7, content: 知母六兩石膏一, krp: 紫參半}
+  - {type: punctuation, offset: 1515, content: ，, id: KR3e0007_CHANT_002-bkkpn366}
+  - {type: 'tls:seg', offset: 1515, content: '', id: KR3e0007_CHANT_002-27a.9}
+  - {type: punctuation, offset: 1519, content: ，, id: KR3e0007_CHANT_002-bkkpn367}
+  - {type: 'tls:seg', offset: 1519, content: '', id: KR3e0007_CHANT_002-27a.10}
+  - {type: variant, offset: 1519, length: 1, content: 碎, SBCK: ''}
+  - {type: variant, offset: 1519, length: 1, content: 碎, krp: ''}
+  - {type: punctuation, offset: 1520, content: ；, id: KR3e0007_CHANT_002-bkkpn368}
+  - {type: 'tls:seg', offset: 1520, content: '', id: KR3e0007_CHANT_002-27a.11}
+  - {type: variant, offset: 1522, length: 0, content: '', SBCK: 三两右}
+  - {type: variant, offset: 1522, length: 0, content: '', krp: 三两右}
+  - {type: variant, offset: 1523, length: 5, content: 兩粳米六合, SBCK: 味以水五升先煮紫參取二升内甘草煮取一升半分温三服疑非仲景方氣利訶梨勒散主之訶梨勒散方訶梨勒十枚右一味為散粥飲和頓服疑非仲景方附方千金翼小承氣湯治大便不通噦數譫語方見上外䑓黄芩湯治乾嘔下利黄芩}
+  - {type: page-break, offset: 1523, content: '', id: KR3e0007_SBCK_002-34a}
+  - {type: variant, offset: 1523, length: 5, content: 兩粳米六合, krp: 味以水五升先煮紫參取二升内甘草煮取一升半分温三服疑非仲景方氣利訶梨勒散主之訶梨勒散方訶梨勒十枚右一味為散粥飲和頓服疑非仲景方附方千金翼小承氣湯治大便不通噦數譫語方見上外䑓黄芩湯治乾嘔下利黄芩}
+  - {type: punctuation, offset: 1524, content: ，, id: KR3e0007_CHANT_002-bkkpn369}
+  - {type: 'tls:seg', offset: 1524, content: '', id: KR3e0007_CHANT_002-27a.12}
+  - {type: punctuation, offset: 1528, content: ，, id: KR3e0007_CHANT_002-bkkpn370}
+  - {type: 'tls:seg', offset: 1528, content: '', id: KR3e0007_CHANT_002-27a.13}
+  - {type: variant, offset: 1530, length: 0, content: '', SBCK: 乾姜各}
+  - {type: variant, offset: 1530, length: 0, content: '', krp: 乾姜各}
+  - {type: variant, offset: 1531, length: 1, content: 兩, SBCK: 两桂枝一两大􅀥十二枚半夏半升右六味以水七升煮取三升温分三服瘡癰腸癰浸淫病脉證幷治第十八論一首脉證三條方五首諸浮數脉應當發􅀬而反洒淅惡寒􅀂有痛處當發其癰師曰諸癰腫􅁒知有膿無膿以手掩腫上􅀬者為有膿不􅀬者為無膿腸癰之為病其身甲錯腹皮急按之濡如腫狀腹無積飛身而􅀬脉數此為膿内有癰膿薏苡附子敗醤散主之薏苡附子敗醬散方薏苡仁十分附子二分敗醤五分右三味杵為末取方寸匕以水二升煎减半頓服小便當下腸癰者小腹腫痞按之即痛如淋小便自調時時發􅀬自汗出復惡寒其脉遲􅂃者膿未成可下之當有血脉洪數者膿巳成不可下也大黃牡丹湯主之大黄牡丹湯方大黃四两牡丹一两桃仁五十箇􅀲子半升芒消三合}
+  - {type: page-break, offset: 1531, content: '', id: KR3e0007_SBCK_002-34b}
+  - {type: page-break, offset: 1531, content: '', id: KR3e0007_SBCK_002-35a}
+  - {type: variant, offset: 1531, length: 1, content: 兩, krp: 两桂枝一两大棗十二枚半夏半升右六味以水七升煮取三升温分三服瘡癰腸癰浸淫病脉證幷治第十八論一首脉證三條方五首諸浮數脉應當發熱而反洒淅惡寒若有痛處當發其癰師曰諸癰腫𣣔知有膿無膿以手掩腫上熱者為有膿不熱者為無膿腸癰之為病其身甲錯腹皮急按之濡如腫狀腹無積飛身而熱脉數此為膿内有癰膿薏苡附子敗醤散主之薏苡附子敗醬散方薏苡仁十分附子二分敗醤五分右三味杵為末取方寸匕以水二升煎减半頓服小便當下腸癰者小腹腫痞按之即痛如淋小便自調時時發熱自汗出復惡寒其脉遲緊者膿未成可下之當有血脉洪數者膿巳成不可下也大黃牡丹湯主之大黄牡丹湯方大黃四两牡丹一两桃仁五十箇瓜子半升芒消三合}
+  - {type: punctuation, offset: 1532, content: 。, id: KR3e0007_CHANT_002-bkkpn371}
+  - {type: xml-element, offset: 1532, content: '', id: KR3e0007_CHANT_002-bkkxmlele88}
+  - {type: xml-element, offset: 1532, content: '', id: KR3e0007_CHANT_002-bkkxmlele89}
+  - {type: 'tls:seg', offset: 1532, content: '', id: KR3e0007_CHANT_002-28a.1}
+  - {type: 'tls:seg', offset: 1532, content: '', id: KR3e0007_CHANT_002-28a.2}
+  - {type: punctuation, offset: 1535, content: ，, id: KR3e0007_CHANT_002-bkkpn372}
+  - {type: 'tls:seg', offset: 1535, content: '', id: KR3e0007_CHANT_002-28a.3}
+  - {type: variant, offset: 1537, length: 0, content: '', SBCK: 六升煮取}
+  - {type: variant, offset: 1537, length: 0, content: '', krp: 六升煮取}
+  - {type: variant, offset: 1538, length: 6, content: 斗煮米熱湯成, SBCK: 升}
+  - {type: variant, offset: 1538, length: 6, content: 斗煮米熱湯成, krp: 升}
+  - {type: punctuation, offset: 1539, content: ，, id: KR3e0007_CHANT_002-bkkpn373}
+  - {type: 'tls:seg', offset: 1539, content: '', id: KR3e0007_CHANT_002-28a.4}
+  - {type: punctuation, offset: 1544, content: ，, id: KR3e0007_CHANT_002-bkkpn374}
+  - {type: 'tls:seg', offset: 1544, content: '', id: KR3e0007_CHANT_002-28a.5}
+  - {type: punctuation, offset: 1546, content: ，, id: KR3e0007_CHANT_002-bkkpn375}
+  - {type: 'tls:seg', offset: 1546, content: '', id: KR3e0007_CHANT_002-28a.6}
+  - {type: variant, offset: 1546, length: 1, content: 溫, SBCK: 内芒消丹煎沸頓服之有膿當下如先膿當下血問曰寸口脉浮㣲而澁然當亡血􅀂汗出設不汗者云何荅曰􅀂身有瘡􅀍刀斧所傷亡血故也病金瘡王不留行散主之王不留行散王不留行十分八月採蒴藋細葉十分七月七日採桑東南根自皮十分三月三日採甘草十八分川椒三分除日及閉口者汁黃芩二分乾姜二分芍藥二分厚朴二分右九味桑根皮以上三味燒􅁅存性勿令􅁅過各别杵篩合治之爲散服方寸匕小瘡即粉之大瘡但服之産後亦可服如風寒桑東根勿取之前三物皆隂乾百日排膿散方枳實十六枚芍藥六分桔梗一分右三味杵爲散取鷄子黄一枚以藥散與鷄黄相等揉和煎如薄粥温}
+  - {type: page-break, offset: 1546, content: '', id: KR3e0007_SBCK_002-35b}
+  - {type: page-break, offset: 1546, content: '', id: KR3e0007_SBCK_002-36a}
+  - {type: variant, offset: 1546, length: 1, content: 溫, krp: 内芒消丹煎沸頓服之有膿當下如先膿當下血問曰寸口脉浮㣲而澁然當亡血若汗出設不汗者云何荅曰若身有瘡𬒳刀斧所傷亡血故也病金瘡王不留行散主之王不留行散王不留行十分八月採蒴藋細葉十分七月七日採桑東南根自皮十分三月三日採甘草十八分川椒三分除日及閉口者汁黃芩二分乾姜二分芍藥二分厚朴二分右九味桑根皮以上三味燒灰存性勿令灰過各别杵篩合治之爲散服方寸匕小瘡即粉之大瘡但服之産後亦可服如風寒桑東根勿取之前三物皆隂乾百日排膿散方枳實十六枚芍藥六分桔梗一分右三味杵爲散取鷄子黄一枚以藥散與鷄黄相等揉和煎如薄粥温}
+  - {type: punctuation, offset: 1550, content: ，, id: KR3e0007_CHANT_002-bkkpn376}
+  - {type: 'tls:seg', offset: 1550, content: '', id: KR3e0007_CHANT_002-28a.7}
+  - {type: variant, offset: 1550, length: 1, content: 日, SBCK: 差即止蚘厥者當􅄍蚘令病者静而復時煩此爲藏寒蚘上入膈故煩湏􅁷復止得食而嘔又煩者蚘聞食臭出其人當自􅄍蚘蚘厥者烏梅丸主之烏梅丸方烏梅三百箇細辛六两乾姜十两黃連一斤當歸四两附子六两炮川椒四两去汁桂枝六两人參黃蘗各六两右十味異搗篩合治之以苦酒漬烏梅一􅀫去核蒸之五升米下飯熟擣成泥和藥令相得内臼中與􅁡杵五千下丸如梧子大先食飲服十丸}
+  - {type: page-break, offset: 1550, content: '', id: KR3e0007_SBCK_002-36b}
+  - {type: variant, offset: 1550, length: 1, content: 日, krp: 差即止蚘厥者當吐蚘令病者静而復時煩此爲藏寒蚘上入膈故煩湏臾復止得食而嘔又煩者蚘聞食臭出其人當自吐蚘蚘厥者烏梅丸主之烏梅丸方烏梅三百箇細辛六两乾姜十两黃連一斤當歸四两附子六两炮川椒四两去汁桂枝六两人參黃蘗各六两右十味異搗篩合治之以苦酒漬烏梅一宿去核蒸之五升米下飯熟擣成泥和藥令相得内臼中與蜜杵五千下丸如梧子大先食飲服十丸}
+  - {type: punctuation, offset: 1553, content: 。, id: KR3e0007_CHANT_002-bkkpn377}
+  - {type: xml-element, offset: 1553, content: '', id: KR3e0007_CHANT_002-bkkxmlele90}
+  - {type: xml-element, offset: 1553, content: '', id: KR3e0007_CHANT_002-bkkxmlele91}
+  - {type: 'tls:seg', offset: 1553, content: '', id: KR3e0007_CHANT_002-28a.8}
+  - {type: variant, offset: 1553, length: 2, content: 太陽, SBCK: 稍加至二十丸禁生冷潰臭等食新編金匱要畧方論卷之}
+  - {type: variant, offset: 1553, length: 2, content: 太陽, krp: 稍加至二十丸禁生冷潰臭等食新編金匱要畧方論卷之}
+  - {type: variant, offset: 1556, length: 55, content: 暍身熱疼重而脈微弱此以夏月傷冷水水行皮中所致也一物苽蒂湯主之一物苽蒂湯方苽蒂二七個右剉以水一升煮取五合去滓頓服, SBCK: ''}
+  - {type: variant, offset: 1556, length: 55, content: 暍身熱疼重而脈微弱此以夏月傷冷水水行皮中所致也一物苽蒂湯主之一物苽蒂湯方苽蒂二七個右剉以水一升煮取五合去滓頓服, krp: ''}
+  - {type: punctuation, offset: 1557, content: ，, id: KR3e0007_CHANT_002-bkkpn378}
+  - {type: 'tls:seg', offset: 1557, content: '', id: KR3e0007_CHANT_002-28a.9}
+  - {type: punctuation, offset: 1565, content: ，, id: KR3e0007_CHANT_002-bkkpn379}
+  - {type: 'tls:seg', offset: 1565, content: '', id: KR3e0007_CHANT_002-28a.10}
+  - {type: punctuation, offset: 1572, content: ，, id: KR3e0007_CHANT_002-bkkpn380}
+  - {type: 'tls:seg', offset: 1572, content: '', id: KR3e0007_CHANT_002-28a.11}
+  - {type: punctuation, offset: 1579, content: 。, id: KR3e0007_CHANT_002-bkkpn381}
+  - {type: 'tls:seg', offset: 1579, content: '', id: KR3e0007_CHANT_002-28a.12}
+  - {type: punctuation, offset: 1586, content: 。, id: KR3e0007_CHANT_002-bkkpn382}
+  - {type: xml-element, offset: 1586, content: '', id: KR3e0007_CHANT_002-bkkxmlele92}
+  - {type: xml-element, offset: 1586, content: '', id: KR3e0007_CHANT_002-bkkxmlele93}
+  - {type: 'tls:seg', offset: 1586, content: '', id: KR3e0007_CHANT_002-29a.1}
+  - {type: 'tls:seg', offset: 1586, content: '', id: KR3e0007_CHANT_002-29a.2}
+  - {type: punctuation, offset: 1592, content: ：, id: KR3e0007_CHANT_002-bkkpn383}
+  - {type: xml-element, offset: 1592, content: '', id: KR3e0007_CHANT_002-bkkxmlele94}
+  - {type: xml-element, offset: 1592, content: '', id: KR3e0007_CHANT_002-bkkxmlele95}
+  - {type: 'tls:seg', offset: 1592, content: '', id: KR3e0007_CHANT_002-29a.3}
+  - {type: punctuation, offset: 1597, content: 。, id: KR3e0007_CHANT_002-bkkpn384}
+  - {type: xml-element, offset: 1597, content: '', id: KR3e0007_CHANT_002-bkkxmlele96}
+  - {type: xml-element, offset: 1597, content: '', id: KR3e0007_CHANT_002-bkkxmlele97}
+  - {type: 'tls:seg', offset: 1597, content: '', id: KR3e0007_CHANT_002-29a.4}
+  - {type: substitution, offset: 1598, original: 剉, replacement: 銼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2191}}
+  - {type: punctuation, offset: 1599, content: ，, id: KR3e0007_CHANT_002-bkkpn385}
+  - {type: 'tls:seg', offset: 1599, content: '', id: KR3e0007_CHANT_002-29a.5}
+  - {type: punctuation, offset: 1603, content: ，, id: KR3e0007_CHANT_002-bkkpn386}
+  - {type: 'tls:seg', offset: 1603, content: '', id: KR3e0007_CHANT_002-29a.6}
+  - {type: punctuation, offset: 1607, content: ，, id: KR3e0007_CHANT_002-bkkpn387}
+  - {type: 'tls:seg', offset: 1607, content: '', id: KR3e0007_CHANT_002-29a.7}
+  - {type: punctuation, offset: 1611, content: 。, id: KR3e0007_CHANT_002-bkkpn388}
+  - {type: xml-element, offset: 1611, content: '', id: KR3e0007_CHANT_002-bkkxmlele98}
+  back: []
+hash: sha256:6c3532b668f5fb18da5359e816ce4f93edc5659dc1fff3108d2839bdf735abe3
